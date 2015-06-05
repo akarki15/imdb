@@ -1,15 +1,17 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, url_for
 
 app = Flask(__name__)
 app.config.from_object('config')
+# import module
 
 from app.rating_list.controllers import rating_list as rating_list
 
-# import module
 app.register_blueprint(rating_list)
 
 @app.errorhandler(404)
 def not_found(error):
+       print url_for(rating_list))
        return render_template('404.html'), 404
+
 
 
