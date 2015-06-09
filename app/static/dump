@@ -1,0 +1,5487 @@
+(lp0
+(lp1
+S'The Godfather'
+p2
+aV9.2
+p3
+aa(lp4
+S'Pride and Prejudice'
+p5
+aV9.2
+p6
+aa(lp7
+S'Yesterday'
+p8
+aV9.1
+p9
+aa(lp10
+S'The Dark Knight'
+p11
+aV9.0
+p12
+aa(lp13
+S'The Lord of the Rings: The Return of the King'
+p14
+aV8.9
+p15
+aa(lp16
+S'Pulp Fiction'
+p17
+aV8.9
+p18
+aa(lp19
+S"Schindler's List"
+p20
+aV8.9
+p21
+aa(lp22
+S'Forrest Gump'
+p23
+aV8.8
+p24
+aa(lp25
+S'Inception'
+p26
+aV8.8
+p27
+aa(lp28
+S'The Lord of the Rings: The Fellowship of the Ring'
+p29
+aV8.8
+p30
+aa(lp31
+S'The Lord of the Rings: The Two Towers'
+p32
+aV8.8
+p33
+aa(lp34
+S'Goodfellas'
+p35
+aV8.7
+p36
+aa(lp37
+S'The Matrix'
+p38
+aV8.7
+p39
+aa(lp40
+S"One Flew over the Cuckoo's Nest"
+p41
+aV8.7
+p42
+aa(lp43
+S'The Usual Suspects'
+p44
+aV8.7
+p45
+aa(lp46
+S'Life Is Beautiful'
+p47
+aV8.6
+p48
+aa(lp49
+S'Raiders of the Lost Ark'
+p50
+aV8.6
+p51
+aa(lp52
+S'Saving Private Ryan'
+p53
+aV8.6
+p54
+aa(lp55
+S'The Silence of the Lambs'
+p56
+aV8.6
+p57
+aa(lp58
+S'Alien'
+p59
+aV8.5
+p60
+aa(lp61
+S'Apocalypse Now'
+p62
+aV8.5
+p63
+aa(lp64
+S'Back to the Future'
+p65
+aV8.5
+p66
+aa(lp67
+S'The Cove'
+p68
+aV8.5
+p69
+aa(lp70
+S'The Departed'
+p71
+aV8.5
+p72
+aa(lp73
+S'Django Unchained'
+p74
+aV8.5
+p75
+aa(lp76
+S'Gladiator'
+p77
+aV8.5
+p78
+aa(lp79
+S'The Lion King'
+p80
+aV8.5
+p81
+aa(lp82
+S'The Lives of Others'
+p83
+aV8.5
+p84
+aa(lp85
+S'The Man Who Planted Trees'
+p86
+aV8.5
+p87
+aa(lp88
+S'The Pianist'
+p89
+aV8.5
+p90
+aa(lp91
+S'Terminator 2: Judgment Day'
+p92
+aV8.5
+p93
+aa(lp94
+S'Aliens'
+p95
+aV8.4
+p96
+aa(lp97
+S'All About Eve'
+p98
+aV8.4
+p99
+aa(lp100
+S'Amadeus'
+p101
+aV8.4
+p102
+aa(lp103
+S'American Beauty'
+p104
+aV8.4
+p105
+aa(lp106
+S'Braveheart'
+p107
+aV8.4
+p108
+aa(lp109
+S'Citizen Kane'
+p110
+aV8.4
+p111
+aa(lp112
+S'Eternal Sunshine of the Spotless Mind'
+p113
+aV8.4
+p114
+aa(lp115
+S'Hearts and Minds'
+p116
+aV8.4
+p117
+aa(lp118
+S'Lawrence of Arabia'
+p119
+aV8.4
+p120
+aa(lp121
+S'A Separation'
+p122
+aV8.4
+p123
+aa(lp124
+S'The Sting'
+p125
+aV8.4
+p126
+aa(lp127
+S'Sunrise'
+p128
+aV8.4
+p129
+aa(lp130
+S'The Times of Harvey Milk'
+p131
+aV8.4
+p132
+aa(lp133
+S'To Kill a Mockingbird'
+p134
+aV8.4
+p135
+aa(lp136
+S'Toy Story 3'
+p137
+aV8.4
+p138
+aa(lp139
+S'WALL-E'
+p140
+aV8.4
+p141
+aa(lp142
+S'The Wrong Trousers'
+p143
+aV8.4
+p144
+aa(lp145
+S'2001: A Space Odyssey'
+p146
+aV8.3
+p147
+aa(lp148
+S'The Apartment'
+p149
+aV8.3
+p150
+aa(lp151
+S'The Bridge on the River Kwai'
+p152
+aV8.3
+p153
+aa(lp154
+S'Chinatown'
+p155
+aV8.3
+p156
+aa(lp157
+S'A Close Shave'
+p158
+aV8.3
+p159
+aa(lp160
+S'Dersu Uzala'
+p161
+aV8.3
+p162
+aa(lp163
+S'The Empire Strikes Back'
+p164
+aV8.3
+p165
+aa(lp166
+S'Good Will Hunting'
+p167
+aV8.3
+p168
+aa(lp169
+S'Indiana Jones and the Last Crusade'
+p170
+aV8.3
+p171
+aa(lp172
+S'Inglourious Basterds'
+p173
+aV8.3
+p174
+aa(lp175
+S'Inside Job'
+p176
+aV8.3
+p177
+aa(lp178
+S'Judgment at Nuremberg'
+p179
+aV8.3
+p180
+aa(lp181
+S'L.A. Confidential'
+p182
+aV8.3
+p183
+aa(lp184
+S"Mighty Times: The Children's March"
+p185
+aV8.3
+p186
+aa(lp187
+S"Molly's Pilgrim"
+p188
+aV8.3
+p189
+aa(lp190
+S'Mr. Smith Goes to Washington'
+p191
+aV8.3
+p192
+aa(lp193
+S'Nights of Cabiria'
+p194
+aV8.3
+p195
+aa(lp196
+S'On the Waterfront'
+p197
+aV8.3
+p198
+aa(lp199
+S"Pan's Labyrinth"
+p200
+aV8.3
+p201
+aa(lp202
+S'Paperman'
+p203
+aV8.3
+p204
+aa(lp205
+S'Raging Bull'
+p206
+aV8.3
+p207
+aa(lp208
+S'Ran'
+p209
+aV8.3
+p210
+aa(lp211
+S'The Red Shoes'
+p212
+aV8.3
+p213
+aa(lp214
+S'The Secret in Their Eyes'
+p215
+aV8.3
+p216
+aa(lp217
+S'Some Like It Hot'
+p218
+aV8.3
+p219
+aa(lp220
+S'Toy Story'
+p221
+aV8.3
+p222
+aa(lp223
+S'The Treasure of the Sierra Madre'
+p224
+aV8.3
+p225
+aa(lp226
+S'Unforgiven'
+p227
+aV8.3
+p228
+aa(lp229
+S'Up'
+p230
+aV8.3
+p231
+aa(lp232
+S'Up'
+p233
+aV8.3
+p234
+aa(lp235
+S'A Beautiful Mind'
+p236
+aV8.2
+p237
+aa(lp238
+S'The Best Years of Our Lives'
+p239
+aV8.2
+p240
+aa(lp241
+S'Butch Cassidy and the Sundance Kid'
+p242
+aV8.2
+p243
+aa(lp244
+S'Cool Hand Luke'
+p245
+aV8.2
+p246
+aa(lp247
+S'The Deer Hunter'
+p248
+aV8.2
+p249
+aa(lp250
+S'Dodsworth'
+p251
+aV8.2
+p252
+aa(lp253
+S'Fargo'
+p254
+aV8.2
+p255
+aa(lp256
+S'Finding Nemo'
+p257
+aV8.2
+p258
+aa(lp259
+S'For the Birds'
+p260
+aV8.2
+p261
+aa(lp262
+S'Girl'
+p263
+aV8.2
+p264
+aa(lp265
+S'The Golden Fish'
+p266
+aV8.2
+p267
+aa(lp268
+S'Gone with the Wind'
+p269
+aV8.2
+p270
+aa(lp271
+S'The Grapes of Wrath'
+p272
+aV8.2
+p273
+aa(lp274
+S'The Heiress'
+p275
+aV8.2
+p276
+aa(lp277
+S'It Happened One Night'
+p278
+aV8.2
+p279
+aa(lp280
+S'The Lion in Winter'
+p281
+aV8.2
+p282
+aa(lp283
+S'Network'
+p284
+aV8.2
+p285
+aa(lp286
+S'One Way Passage'
+p287
+aV8.2
+p288
+aa(lp289
+S'Paper Moon'
+p290
+aV8.2
+p291
+aa(lp292
+S'Rebecca'
+p293
+aV8.2
+p294
+aa(lp295
+S'The Red Balloon'
+p296
+aV8.2
+p297
+aa(lp298
+S'Return of the Jedi'
+p299
+aV8.2
+p300
+aa(lp301
+S'Searching for Sugar Man'
+p302
+aV8.2
+p303
+aa(lp304
+S'A Tree Grows in Brooklyn'
+p305
+aV8.2
+p306
+aa(lp307
+S'12 Years a Slave'
+p308
+aV8.1
+p309
+aa(lp310
+S'20000 Leagues Under the Sea'
+p311
+aV8.1
+p312
+aa(lp313
+S'All Quiet on the Western Front'
+p314
+aV8.1
+p315
+aa(lp316
+S'Anne Frank Remembered'
+p317
+aV8.1
+p318
+aa(lp319
+S'Annie Hall'
+p320
+aV8.1
+p321
+aa(lp322
+S'Balance'
+p323
+aV8.1
+p324
+aa(lp325
+S'Barry Lyndon'
+p326
+aV8.1
+p327
+aa(lp328
+S'Bear Country'
+p329
+aV8.1
+p330
+aa(lp331
+S'Ben-Hur'
+p332
+aV8.1
+p333
+aa(lp334
+S'The Bourne Ultimatum'
+p335
+aV8.1
+p336
+aa(lp337
+S'The Circus'
+p338
+aV8.1
+p339
+aa(lp340
+S'The Critic'
+p341
+aV8.1
+p342
+aa(lp343
+S'Day of the Painter'
+p344
+aV8.1
+p345
+aa(lp346
+S'Departures'
+p347
+aV8.1
+p348
+aa(lp349
+S'Dog Day Afternoon'
+p350
+aV8.1
+p351
+aa(lp352
+S'Gandhi'
+p353
+aV8.1
+p354
+aa(lp355
+S'Harvey'
+p356
+aV8.1
+p357
+aa(lp358
+S'The Help'
+p359
+aV8.1
+p360
+aa(lp361
+S'High Noon'
+p362
+aV8.1
+p363
+aa(lp364
+S'The Hustler'
+p365
+aV8.1
+p366
+aa(lp367
+S'Investigation of a Citizen Above Suspicion'
+p368
+aV8.1
+p369
+aa(lp370
+S'Jaws'
+p371
+aV8.1
+p372
+aa(lp373
+S"The King's Speech"
+p374
+aV8.1
+p375
+aa(lp376
+S'La Dolce Vita'
+p377
+aV8.1
+p378
+aa(lp379
+S'The Last Picture Show'
+p380
+aV8.1
+p381
+aa(lp382
+S'Laura'
+p383
+aV8.1
+p384
+aa(lp385
+S'The Lost Weekend'
+p386
+aV8.1
+p387
+aa(lp388
+S'Million Dollar Baby'
+p389
+aV8.1
+p390
+aa(lp391
+S'The Miracle Worker'
+p392
+aV8.1
+p393
+aa(lp394
+S'Murder on a Sunday Morning'
+p395
+aV8.1
+p396
+aa(lp397
+S'The Music Box'
+p398
+aV8.1
+p399
+aa(lp400
+S'No Country for Old Men'
+p401
+aV8.1
+p402
+aa(lp403
+S'A Note of Triumph: The Golden Age of Norman Corwin'
+p404
+aV8.1
+p405
+aa(lp406
+S'A Patch of Blue'
+p407
+aV8.1
+p408
+aa(lp409
+S'The Philadelphia Story'
+p410
+aV8.1
+p411
+aa(lp412
+S'Platoon'
+p413
+aV8.1
+p414
+aa(lp415
+S'Rocky'
+p416
+aV8.1
+p417
+aa(lp418
+S'Roman Holiday'
+p419
+aV8.1
+p420
+aa(lp421
+S'The Sea Inside'
+p422
+aV8.1
+p423
+aa(lp424
+S'Sling Blade'
+p425
+aV8.1
+p426
+aa(lp427
+S'Smile Pinki'
+p428
+aV8.1
+p429
+aa(lp430
+S'Stalag 17'
+p431
+aV8.1
+p432
+aa(lp433
+S'A Streetcar Named Desire'
+p434
+aV8.1
+p435
+aa(lp436
+S'There Will Be Blood'
+p437
+aV8.1
+p438
+aa(lp439
+S'Through a Glass Darkly'
+p440
+aV8.1
+p441
+aa(lp442
+S'The Virgin Spring'
+p443
+aV8.1
+p444
+aa(lp445
+S'What Ever Happened to Baby Jane?'
+p446
+aV8.1
+p447
+aa(lp448
+S"Who's Afraid of Virginia Woolf?"
+p449
+aV8.1
+p450
+aa(lp451
+S'The Wizard of Oz'
+p452
+aV8.1
+p453
+aa(lp454
+S'Woodstock'
+p455
+aV8.1
+p456
+aa(lp457
+S'The Adventures of Robin Hood'
+p458
+aV8.0
+p459
+aa(lp460
+S'The African Queen'
+p461
+aV8.0
+p462
+aa(lp463
+S'Aladdin'
+p464
+aV8.0
+p465
+aa(lp466
+S"All the President's Men"
+p467
+aV8.0
+p468
+aa(lp469
+S'Amarcord'
+p470
+aV8.0
+p471
+aa(lp472
+S'The Artist'
+p473
+aV8.0
+p474
+aa(lp475
+S'The Awful Truth'
+p476
+aV8.0
+p477
+aa(lp478
+S'Beauty and the Beast'
+p479
+aV8.0
+p480
+aa(lp481
+S'Becket'
+p482
+aV8.0
+p483
+aa(lp484
+S'Being There'
+p485
+aV8.0
+p486
+aa(lp487
+S'Black Narcissus'
+p488
+aV8.0
+p489
+aa(lp490
+S'Black Swan'
+p491
+aV8.0
+p492
+aa(lp493
+S'The Bolero'
+p494
+aV8.0
+p495
+aa(lp496
+S'Bowling for Columbine'
+p497
+aV8.0
+p498
+aa(lp499
+S'Burnt by the Sun'
+p500
+aV8.0
+p501
+aa(lp502
+S'Captains Courageous'
+p503
+aV8.0
+p504
+aa(lp505
+S'Charade'
+p506
+aV8.0
+p507
+aa(lp508
+S'Chernobyl Heart'
+p509
+aV8.0
+p510
+aa(lp511
+S'Common Threads: Stories from the Quilt'
+p512
+aV8.0
+p513
+aa(lp514
+S'Dallas Buyers Club'
+p515
+aV8.0
+p516
+aa(lp517
+S'Dances with Wolves'
+p518
+aV8.0
+p519
+aa(lp520
+S'Day for Night'
+p521
+aV8.0
+p522
+aa(lp523
+S'Days of Heaven'
+p524
+aV8.0
+p525
+aa(lp526
+S'Dead Poets Society'
+p527
+aV8.0
+p528
+aa(lp529
+S'The Discreet Charm of the Bourgeoisie'
+p530
+aV8.0
+p531
+aa(lp532
+S'Doctor Zhivago'
+p533
+aV8.0
+p534
+aa(lp535
+S'East of Eden'
+p536
+aV8.0
+p537
+aa(lp538
+S'The Exorcist'
+p539
+aV8.0
+p540
+aa(lp541
+S'The Fantastic Flying Books of Mr. Morris Lessmore'
+p542
+aV8.0
+p543
+aa(lp544
+S'Fiddler on the Roof'
+p545
+aV8.0
+p546
+aa(lp547
+S"Geri's Game"
+p548
+aV8.0
+p549
+aa(lp550
+S'The Graduate'
+p551
+aV8.0
+p552
+aa(lp553
+S'Hannah and Her Sisters'
+p554
+aV8.0
+p555
+aa(lp556
+S'Harvie Krumpet'
+p557
+aV8.0
+p558
+aa(lp559
+S'Her'
+p560
+aV8.0
+p561
+aa(lp562
+S'In the Heat of the Night'
+p563
+aV8.0
+p564
+aa(lp565
+S'The Incredibles'
+p566
+aV8.0
+p567
+aa(lp568
+S'JFK'
+p569
+aV8.0
+p570
+aa(lp571
+S'Jurassic Park'
+p572
+aV8.0
+p573
+aa(lp574
+S'The Last Command'
+p575
+aV8.0
+p576
+aa(lp577
+S'Letters from Iwo Jima'
+p578
+aV8.0
+p579
+aa(lp580
+S'Life of Pi'
+p581
+aV8.0
+p582
+aa(lp583
+S'A Man for All Seasons'
+p584
+aV8.0
+p585
+aa(lp586
+S'Midnight Cowboy'
+p587
+aV8.0
+p588
+aa(lp589
+S'Mildred Pierce'
+p590
+aV8.0
+p591
+aa(lp592
+S'The More the Merrier'
+p593
+aV8.0
+p594
+aa(lp595
+S'Mr. Deeds Goes to Town'
+p596
+aV8.0
+p597
+aa(lp598
+S'Mystic River'
+p599
+aV8.0
+p600
+aa(lp601
+S"No Man's Land"
+p602
+aV8.0
+p603
+aa(lp604
+S'The Old Mill'
+p605
+aV8.0
+p606
+aa(lp607
+S'Patton'
+p608
+aV8.0
+p609
+aa(lp610
+S'The Quiet Man'
+p611
+aV8.0
+p612
+aa(lp613
+S'Rain Man'
+p614
+aV8.0
+p615
+aa(lp616
+S'Ratatouille'
+p617
+aV8.0
+p618
+aa(lp619
+S"Rosemary's Baby"
+p620
+aV8.0
+p621
+aa(lp622
+S'Scent of a Woman'
+p623
+aV8.0
+p624
+aa(lp625
+S'The Search'
+p626
+aV8.0
+p627
+aa(lp628
+S'The Shop on Main Street'
+p629
+aV8.0
+p630
+aa(lp631
+S'Slumdog Millionaire'
+p632
+aV8.0
+p633
+aa(lp634
+S'Spartacus'
+p635
+aV8.0
+p636
+aa(lp637
+S'Star Trek'
+p638
+aV8.0
+p639
+aa(lp640
+S'Talk to Her'
+p641
+aV8.0
+p642
+aa(lp643
+S'The Untouchables'
+p644
+aV8.0
+p645
+aa(lp646
+S'When We Were Kings'
+p647
+aV8.0
+p648
+aa(lp649
+S'Winnie the Pooh and the Blustery Day'
+p650
+aV8.0
+p651
+aa(lp652
+S"You Can't Take It with You"
+p653
+aV8.0
+p654
+aa(lp655
+S'The Accountant'
+p656
+aV7.9
+p657
+aa(lp658
+S'All About My Mother'
+p659
+aV7.9
+p660
+aa(lp661
+S'Almost Famous'
+p662
+aV7.9
+p663
+aa(lp664
+S'America America'
+p665
+aV7.9
+p666
+aa(lp667
+S'American Dream'
+p668
+aV7.9
+p669
+aa(lp670
+S'Arise'
+p671
+aV7.9
+p672
+aa(lp673
+S'Avatar'
+p674
+aV7.9
+p675
+aa(lp676
+S'The Big Country'
+p677
+aV7.9
+p678
+aa(lp679
+S'Bonnie and Clyde'
+p680
+aV7.9
+p681
+aa(lp682
+S'Cabaret'
+p683
+aV7.9
+p684
+aa(lp685
+S'Crash'
+p686
+aV7.9
+p687
+aa(lp688
+S'Crouching Tiger'
+p689
+aV7.9
+p690
+aa(lp691
+S'Curfew'
+p692
+aV7.9
+p693
+aa(lp694
+S'Days of Wine and Roses'
+p695
+aV7.9
+p696
+aa(lp697
+S'Ed Wood'
+p698
+aV7.9
+p699
+aa(lp700
+S'Elmer Gantry'
+p701
+aV7.9
+p702
+aa(lp703
+S'The Fighter'
+p704
+aV7.9
+p705
+aa(lp706
+S'Forbidden Games'
+p707
+aV7.9
+p708
+aa(lp709
+S'Gaslight'
+p710
+aV7.9
+p711
+aa(lp712
+S'The Girl with the Dragon Tattoo'
+p713
+aV7.9
+p714
+aa(lp715
+S'Glory'
+p716
+aV7.9
+p717
+aa(lp718
+S'The Good Earth'
+p719
+aV7.9
+p720
+aa(lp721
+S'Gravity'
+p722
+aV7.9
+p723
+aa(lp724
+S'The House I Live In'
+p725
+aV7.9
+p726
+aa(lp727
+S'Hud'
+p728
+aV7.9
+p729
+aa(lp730
+S'Into the Arms of Strangers: Stories of the Kindertransport'
+p731
+aV7.9
+p732
+aa(lp733
+S'Johnny Belinda'
+p734
+aV7.9
+p735
+aa(lp736
+S'Key Largo'
+p737
+aV7.9
+p738
+aa(lp739
+S'The Killing Fields'
+p740
+aV7.9
+p741
+aa(lp742
+S'Let It Be'
+p743
+aV7.9
+p744
+aa(lp745
+S'Little Miss Sunshine'
+p746
+aV7.9
+p747
+aa(lp748
+S'Lost Horizon'
+p749
+aV7.9
+p750
+aa(lp751
+S'Man on Wire'
+p752
+aV7.9
+p753
+aa(lp754
+S'Miracle on 34th Street'
+p755
+aV7.9
+p756
+aa(lp757
+S'Mouse Trouble'
+p758
+aV7.9
+p759
+aa(lp760
+S'My Fair Lady'
+p761
+aV7.9
+p762
+aa(lp763
+S'My Left Foot'
+p764
+aV7.9
+p765
+aa(lp766
+S'Once'
+p767
+aV7.9
+p768
+aa(lp769
+S'One Day in September'
+p770
+aV7.9
+p771
+aa(lp772
+S'Pelle the Conqueror'
+p773
+aV7.9
+p774
+aa(lp775
+S'Pygmalion'
+p776
+aV7.9
+p777
+aa(lp778
+S'The Right Stuff'
+p779
+aV7.9
+p780
+aa(lp781
+S'Room at the Top'
+p782
+aV7.9
+p783
+aa(lp784
+S'Scared Straight!'
+p785
+aV7.9
+p786
+aa(lp787
+S'Seal Island'
+p788
+aV7.9
+p789
+aa(lp790
+S'Shrek'
+p791
+aV7.9
+p792
+aa(lp793
+S'Stagecoach'
+p794
+aV7.9
+p795
+aa(lp796
+S'Sundays and Cybele'
+p797
+aV7.9
+p798
+aa(lp799
+S'Taxi to the Dark Side'
+p800
+aV7.9
+p801
+aa(lp802
+S'The Ten Commandments'
+p803
+aV7.9
+p804
+aa(lp805
+S'They Shoot Horses'
+p806
+aV7.9
+p807
+aa(lp808
+S'Two Women'
+p809
+aV7.9
+p810
+aa(lp811
+S'Walk the Line'
+p812
+aV7.9
+p813
+aa(lp814
+S'All That Jazz'
+p815
+aV7.8
+p816
+aa(lp817
+S'Amour'
+p818
+aV7.8
+p819
+aa(lp820
+S'Argo'
+p821
+aV7.8
+p822
+aa(lp823
+S'As Good as It Gets'
+p824
+aV7.8
+p825
+aa(lp826
+S'Atonement'
+p827
+aV7.8
+p828
+aa(lp829
+S"Babette's Feast"
+p830
+aV7.8
+p831
+aa(lp832
+S'The Bad and the Beautiful'
+p833
+aV7.8
+p834
+aa(lp835
+S'Best Boy'
+p836
+aV7.8
+p837
+aa(lp838
+S'Body and Soul'
+p839
+aV7.8
+p840
+aa(lp841
+S"Breakfast at Tiffany's"
+p842
+aV7.8
+p843
+aa(lp844
+S'Breaking Away'
+p845
+aV7.8
+p846
+aa(lp847
+S"Breathing Lessons: The Life and Work of Mark O'Brien"
+p848
+aV7.8
+p849
+aa(lp850
+S'Character'
+p851
+aV7.8
+p852
+aa(lp853
+S'Closely Watched Trains'
+p854
+aV7.8
+p855
+aa(lp856
+S'The Curious Case of Benjamin Button'
+p857
+aV7.8
+p858
+aa(lp859
+S'The Dirty Dozen'
+p860
+aV7.8
+p861
+aa(lp862
+S'Fantasia'
+p863
+aV7.8
+p864
+aa(lp865
+S'Finding Neverland'
+p866
+aV7.8
+p867
+aa(lp868
+S'The French Connection'
+p869
+aV7.8
+p870
+aa(lp871
+S'From Here to Eternity'
+p872
+aV7.8
+p873
+aa(lp874
+S'The Fugitive'
+p875
+aV7.8
+p876
+aa(lp877
+S'Goldfinger'
+p878
+aV7.8
+p879
+aa(lp880
+S"Guess Who's Coming to Dinner"
+p881
+aV7.8
+p882
+aa(lp883
+S'Hamlet'
+p884
+aV7.8
+p885
+aa(lp886
+S'Henry V'
+p887
+aV7.8
+p888
+aa(lp889
+S'How Green Was My Valley'
+p890
+aV7.8
+p891
+aa(lp892
+S'The Johnstown Flood'
+p893
+aV7.8
+p894
+aa(lp895
+S'Kolya'
+p896
+aV7.8
+p897
+aa(lp898
+S'Kramer vs. Kramer'
+p899
+aV7.8
+p900
+aa(lp901
+S'The Last Emperor'
+p902
+aV7.8
+p903
+aa(lp904
+S'The Last of the Mohicans'
+p905
+aV7.8
+p906
+aa(lp907
+S'A Letter to Three Wives'
+p908
+aV7.8
+p909
+aa(lp910
+S'The Little Orphan'
+p911
+aV7.8
+p912
+aa(lp913
+S'The Longest Day'
+p914
+aV7.8
+p915
+aa(lp916
+S'Lost in Translation'
+p917
+aV7.8
+p918
+aa(lp919
+S'Marty'
+p920
+aV7.8
+p921
+aa(lp922
+S'Mary Poppins'
+p923
+aV7.8
+p924
+aa(lp925
+S'Mephisto'
+p926
+aV7.8
+p927
+aa(lp928
+S'Misery'
+p929
+aV7.8
+p930
+aa(lp931
+S'Missing'
+p932
+aV7.8
+p933
+aa(lp934
+S'Mississippi Burning'
+p935
+aV7.8
+p936
+aa(lp937
+S'Mister Roberts'
+p938
+aV7.8
+p939
+aa(lp940
+S'The Motorcycle Diaries'
+p941
+aV7.8
+p942
+aa(lp943
+S'Mutiny on the Bounty'
+p944
+aV7.8
+p945
+aa(lp946
+S'Nashville'
+p947
+aV7.8
+p948
+aa(lp949
+S'The Night of the Iguana'
+p950
+aV7.8
+p951
+aa(lp952
+S'Number Our Days'
+p953
+aV7.8
+p954
+aa(lp955
+S'Ordinary People'
+p956
+aV7.8
+p957
+aa(lp958
+S'A Place in the Sun'
+p959
+aV7.8
+p960
+aa(lp961
+S'Portrait of Jennie'
+p962
+aV7.8
+p963
+aa(lp964
+S'The Pride of the Yankees'
+p965
+aV7.8
+p966
+aa(lp967
+S'The Prime of Miss Jean Brodie'
+p968
+aV7.8
+p969
+aa(lp970
+S'Quiet Please!'
+p971
+aV7.8
+p972
+aa(lp973
+S'Ray'
+p974
+aV7.8
+p975
+aa(lp976
+S'The Red Violin'
+p977
+aV7.8
+p978
+aa(lp979
+S'Sabrina'
+p980
+aV7.8
+p981
+aa(lp982
+S'Sergeant York'
+p983
+aV7.8
+p984
+aa(lp985
+S'Silver Linings Playbook'
+p986
+aV7.8
+p987
+aa(lp988
+S'Skyfall'
+p989
+aV7.8
+p990
+aa(lp991
+S'The Social Network'
+p992
+aV7.8
+p993
+aa(lp994
+S'Splendor in the Grass'
+p995
+aV7.8
+p996
+aa(lp997
+S'A Star Is Born'
+p998
+aV7.8
+p999
+aa(lp1000
+S'A Star Is Born'
+p1001
+aV7.8
+p1002
+aa(lp1003
+S'Star Wars'
+p1004
+aV7.8
+p1005
+aa(lp1006
+S'To Each His Own'
+p1007
+aV7.8
+p1008
+aa(lp1009
+S'Trevor'
+p1010
+aV7.8
+p1011
+aa(lp1012
+S"Twelve O'Clock High"
+p1013
+aV7.8
+p1014
+aa(lp1015
+S'Undefeated'
+p1016
+aV7.8
+p1017
+aa(lp1018
+S'The Vanishing Prairie'
+p1019
+aV7.8
+p1020
+aa(lp1021
+S'Wings'
+p1022
+aV7.8
+p1023
+aa(lp1024
+S'Yankee Doodle Dandy'
+p1025
+aV7.8
+p1026
+aa(lp1027
+S'Zorba the Greek'
+p1028
+aV7.8
+p1029
+aa(lp1030
+S'The Barbarian Invasions'
+p1031
+aV7.7
+p1032
+aa(lp1033
+S'Birds Anonymous'
+p1034
+aV7.7
+p1035
+aa(lp1036
+S'Black Hawk Down'
+p1037
+aV7.7
+p1038
+aa(lp1039
+S'The Blind Side'
+p1040
+aV7.7
+p1041
+aa(lp1042
+S'Born into Brothels'
+p1043
+aV7.7
+p1044
+aa(lp1045
+S'Born Yesterday'
+p1046
+aV7.7
+p1047
+aa(lp1048
+S'Brokeback Mountain'
+p1049
+aV7.7
+p1050
+aa(lp1051
+S'Close Encounters of the Third Kind'
+p1052
+aV7.7
+p1053
+aa(lp1054
+S'Dangerous Liaisons'
+p1055
+aV7.7
+p1056
+aa(lp1057
+S'The Dawn Patrol'
+p1058
+aV7.7
+p1059
+aa(lp1060
+S'The Defiant Ones'
+p1061
+aV7.7
+p1062
+aa(lp1063
+S"Der Fuehrer's Face"
+p1064
+aV7.7
+p1065
+aa(lp1066
+S'The Dot and the Line'
+p1067
+aV7.7
+p1068
+aa(lp1069
+S'Dr. Jekyll and Mr. Hyde'
+p1070
+aV7.7
+p1071
+aa(lp1072
+S'Freeheld'
+p1073
+aV7.7
+p1074
+aa(lp1075
+S'Frozen'
+p1076
+aV7.7
+p1077
+aa(lp1078
+S'Giant'
+p1079
+aV7.7
+p1080
+aa(lp1081
+S'God of Love'
+p1082
+aV7.7
+p1083
+aa(lp1084
+S'The Great Beauty'
+p1085
+aV7.7
+p1086
+aa(lp1087
+S'Here Comes Mr. Jordan'
+p1088
+aV7.7
+p1089
+aa(lp1090
+S'The Horse with the Flying Tail'
+p1091
+aV7.7
+p1092
+aa(lp1093
+S'In a Better World'
+p1094
+aV7.7
+p1095
+aa(lp1096
+S'Journey of Hope'
+p1097
+aV7.7
+p1098
+aa(lp1099
+S'Knighty Knight Bugs'
+p1100
+aV7.7
+p1101
+aa(lp1102
+S'Krakatoa'
+p1103
+aV7.7
+p1104
+aa(lp1105
+S'Kukan'
+p1106
+aV7.7
+p1107
+aa(lp1108
+S'La Vie en rose'
+p1109
+aV7.7
+p1110
+aa(lp1111
+S'The Last King of Scotland'
+p1112
+aV7.7
+p1113
+aa(lp1114
+S'Leave Her to Heaven'
+p1115
+aV7.7
+p1116
+aa(lp1117
+S'Les Mis\xc3\xa9rables'
+p1118
+aV7.7
+p1119
+aa(lp1120
+S'Lilies of the Field'
+p1121
+aV7.7
+p1122
+aa(lp1123
+S'The Living Desert'
+p1124
+aV7.7
+p1125
+aa(lp1126
+S'Logorama'
+p1127
+aV7.7
+p1128
+aa(lp1129
+S'A Man and a Woman'
+p1130
+aV7.7
+p1131
+aa(lp1132
+S'March of the Penguins'
+p1133
+aV7.7
+p1134
+aa(lp1135
+S'Midnight Express'
+p1136
+aV7.7
+p1137
+aa(lp1138
+S'Midnight in Paris'
+p1139
+aV7.7
+p1140
+aa(lp1141
+S'The Milky Way'
+p1142
+aV7.7
+p1143
+aa(lp1144
+S'Moulin Rouge!'
+p1145
+aV7.7
+p1146
+aa(lp1147
+S'Mrs. Miniver'
+p1148
+aV7.7
+p1149
+aa(lp1150
+S'The Music Man'
+p1151
+aV7.7
+p1152
+aa(lp1153
+S'The Naked City'
+p1154
+aV7.7
+p1155
+aa(lp1156
+S'Nowhere in Africa'
+p1157
+aV7.7
+p1158
+aa(lp1159
+S'The Official Story'
+p1160
+aV7.7
+p1161
+aa(lp1162
+S'On Golden Pond'
+p1163
+aV7.7
+p1164
+aa(lp1165
+S'On the Town'
+p1166
+aV7.7
+p1167
+aa(lp1168
+S'Philadelphia'
+p1169
+aV7.7
+p1170
+aa(lp1171
+S'The Pink Phink'
+p1172
+aV7.7
+p1173
+aa(lp1174
+S'Precious Images'
+p1175
+aV7.7
+p1176
+aa(lp1177
+S'Road to Perdition'
+p1178
+aV7.7
+p1179
+aa(lp1180
+S'Romeo and Juliet'
+p1181
+aV7.7
+p1182
+aa(lp1183
+S'Ryan'
+p1184
+aV7.7
+p1185
+aa(lp1186
+S'Sense and Sensibility'
+p1187
+aV7.7
+p1188
+aa(lp1189
+S'Shane'
+p1190
+aV7.7
+p1191
+aa(lp1192
+S'Shine'
+p1193
+aV7.7
+p1194
+aa(lp1195
+S'Since You Went Away'
+p1196
+aV7.7
+p1197
+aa(lp1198
+S'The Snake Pit'
+p1199
+aV7.7
+p1200
+aa(lp1201
+S'Snow White and the Seven Dwarfs'
+p1202
+aV7.7
+p1203
+aa(lp1204
+S'The Song of Bernadette'
+p1205
+aV7.7
+p1206
+aa(lp1207
+S"Sophie's Choice"
+p1208
+aV7.7
+p1209
+aa(lp1210
+S'Spellbound'
+p1211
+aV7.7
+p1212
+aa(lp1213
+S'Star in the Night'
+p1214
+aV7.7
+p1215
+aa(lp1216
+S'Swing Time'
+p1217
+aV7.7
+p1218
+aa(lp1219
+S'Titanic'
+p1220
+aV7.7
+p1221
+aa(lp1222
+S'Titanic'
+p1223
+aV7.7
+p1224
+aa(lp1225
+S'Traffic'
+p1226
+aV7.7
+p1227
+aa(lp1228
+S'Training Day'
+p1229
+aV7.7
+p1230
+aa(lp1231
+S'True Grit'
+p1232
+aV7.7
+p1233
+aa(lp1234
+S'Who Framed Roger Rabbit'
+p1235
+aV7.7
+p1236
+aa(lp1237
+S'Wuthering Heights'
+p1238
+aV7.7
+p1239
+aa(lp1240
+S'The Yankee Doodle Mouse'
+p1241
+aV7.7
+p1242
+aa(lp1243
+S'The Abyss'
+p1244
+aV7.6
+p1245
+aa(lp1246
+S'An American Werewolf in London'
+p1247
+aV7.6
+p1248
+aa(lp1249
+S'Apollo 13'
+p1250
+aV7.6
+p1251
+aa(lp1252
+S'Batman'
+p1253
+aV7.6
+p1254
+aa(lp1255
+S'Battleground'
+p1256
+aV7.6
+p1257
+aa(lp1258
+S"The Bishop's Wife"
+p1259
+aV7.6
+p1260
+aa(lp1261
+S"Boys Don't Cry"
+p1262
+aV7.6
+p1263
+aa(lp1264
+S'The Chicken'
+p1265
+aV7.6
+p1266
+aa(lp1267
+S'The Chubbchubbs!'
+p1268
+aV7.6
+p1269
+aa(lp1270
+S'The Counterfeiters'
+p1271
+aV7.6
+p1272
+aa(lp1273
+S'Cyrano de Bergerac'
+p1274
+aV7.6
+p1275
+aa(lp1276
+S'Cyrano de Bergerac'
+p1277
+aV7.6
+p1278
+aa(lp1279
+S'Dead Man Walking'
+p1280
+aV7.6
+p1281
+aa(lp1282
+S'Election Night'
+p1283
+aV7.6
+p1284
+aa(lp1285
+S'The Enemy Below'
+p1286
+aV7.6
+p1287
+aa(lp1288
+S'A Fish Called Wanda'
+p1289
+aV7.6
+p1290
+aa(lp1291
+S'The Fisher King'
+p1292
+aV7.6
+p1293
+aa(lp1294
+S'Flowers and Trees'
+p1295
+aV7.6
+p1296
+aa(lp1297
+S'Funny Girl'
+p1298
+aV7.6
+p1299
+aa(lp1300
+S'Gold Diggers of 1935'
+p1301
+aV7.6
+p1302
+aa(lp1303
+S'Grand Hotel'
+p1304
+aV7.6
+p1305
+aa(lp1306
+S'The Guns of Navarone'
+p1307
+aV7.6
+p1308
+aa(lp1309
+S'Holiday Inn'
+p1310
+aV7.6
+p1311
+aa(lp1312
+S'The Hours'
+p1313
+aV7.6
+p1314
+aa(lp1315
+S'Hugo'
+p1316
+aV7.6
+p1317
+aa(lp1318
+S'The Hunt for Red October'
+p1319
+aV7.6
+p1320
+aa(lp1321
+S'The Hurricane'
+p1322
+aV7.6
+p1323
+aa(lp1324
+S'The Hurt Locker'
+p1325
+aV7.6
+p1326
+aa(lp1327
+S'Indiana Jones and the Temple of Doom'
+p1328
+aV7.6
+p1329
+aa(lp1330
+S'The Informer'
+p1331
+aV7.6
+p1332
+aa(lp1333
+S"It's a Mad"
+p1334
+aV7.6
+p1335
+aa(lp1336
+S'Jezebel'
+p1337
+aV7.6
+p1338
+aa(lp1339
+S'Johann Mouse'
+p1340
+aV7.6
+p1341
+aa(lp1342
+S'Juno'
+p1343
+aV7.6
+p1344
+aa(lp1345
+S'King Gimp'
+p1346
+aV7.6
+p1347
+aa(lp1348
+S'Leaving Las Vegas'
+p1349
+aV7.6
+p1350
+aa(lp1351
+S'The Little Mermaid'
+p1352
+aV7.6
+p1353
+aa(lp1354
+S'Marjoe'
+p1355
+aV7.6
+p1356
+aa(lp1357
+S'Milk'
+p1358
+aV7.6
+p1359
+aa(lp1360
+S"Nature's Half Acre"
+p1361
+aV7.6
+p1362
+aa(lp1363
+S"Norman Rockwell's World... An American Dream"
+p1364
+aV7.6
+p1365
+aa(lp1366
+S'The Omen'
+p1367
+aV7.6
+p1368
+aa(lp1369
+S'The Piano'
+p1370
+aV7.6
+p1371
+aa(lp1372
+S'The Picture of Dorian Gray'
+p1373
+aV7.6
+p1374
+aa(lp1375
+S'The Reader'
+p1376
+aV7.6
+p1377
+aa(lp1378
+S'Saving Face'
+p1379
+aV7.6
+p1380
+aa(lp1381
+S'Separate Tables'
+p1382
+aV7.6
+p1383
+aa(lp1384
+S'Sideways'
+p1385
+aV7.6
+p1386
+aa(lp1387
+S'The Solid Gold Cadillac'
+p1388
+aV7.6
+p1389
+aa(lp1390
+S'Sons of Liberty'
+p1391
+aV7.6
+p1392
+aa(lp1393
+S'Street Angel'
+p1394
+aV7.6
+p1395
+aa(lp1396
+S'Teenage Father'
+p1397
+aV7.6
+p1398
+aa(lp1399
+S'The Thief of Bagdad'
+p1400
+aV7.6
+p1401
+aa(lp1402
+S'This Land Is Mine'
+p1403
+aV7.6
+p1404
+aa(lp1405
+S'This Tiny World'
+p1406
+aV7.6
+p1407
+aa(lp1408
+S'A Thousand Clowns'
+p1409
+aV7.6
+p1410
+aa(lp1411
+S'Three Little Pigs'
+p1412
+aV7.6
+p1413
+aa(lp1414
+S'The Tin Drum'
+p1415
+aV7.6
+p1416
+aa(lp1417
+S'The Trip to Bountiful'
+p1418
+aV7.6
+p1419
+aa(lp1420
+S'Wallace & Gromit: The Curse of the Were-Rabbit'
+p1421
+aV7.6
+p1422
+aa(lp1423
+S'West Side Story'
+p1424
+aV7.6
+p1425
+aa(lp1426
+S'Work Experience'
+p1427
+aV7.6
+p1428
+aa(lp1429
+S'The Adventures of Priscilla'
+p1430
+aV7.5
+p1431
+aa(lp1432
+S'Anne of the Thousand Days'
+p1433
+aV7.5
+p1434
+aa(lp1435
+S"Antonia's Line"
+p1436
+aV7.5
+p1437
+aa(lp1438
+S'The Aviator'
+p1439
+aV7.5
+p1440
+aa(lp1441
+S'Babel'
+p1442
+aV7.5
+p1443
+aa(lp1444
+S"The Bells of St. Mary's"
+p1445
+aV7.5
+p1446
+aa(lp1447
+S'Black Orpheus'
+p1448
+aV7.5
+p1449
+aa(lp1450
+S'Bullets over Broadway'
+p1451
+aV7.5
+p1452
+aa(lp1453
+S'Bullitt'
+p1454
+aV7.5
+p1455
+aa(lp1456
+S"Coal Miner's Daughter"
+p1457
+aV7.5
+p1458
+aa(lp1459
+S'The Constant Gardener'
+p1460
+aV7.5
+p1461
+aa(lp1462
+S'Crac'
+p1463
+aV7.5
+p1464
+aa(lp1465
+S'The Danish Poet'
+p1466
+aV7.5
+p1467
+aa(lp1468
+S'Deadly Deception: General Electric'
+p1469
+aV7.5
+p1470
+aa(lp1471
+S'Easter Parade'
+p1472
+aV7.5
+p1473
+aa(lp1474
+S'Elizabeth'
+p1475
+aV7.5
+p1476
+aa(lp1477
+S"The Farmer's Daughter"
+p1478
+aV7.5
+p1479
+aa(lp1480
+S'The Flight of the Gossamer Condor'
+p1481
+aV7.5
+p1482
+aa(lp1483
+S'The Fly'
+p1484
+aV7.5
+p1485
+aa(lp1486
+S'The Fly'
+p1487
+aV7.5
+p1488
+aa(lp1489
+S'The Garden of the Finzi-Continis'
+p1490
+aV7.5
+p1491
+aa(lp1492
+S'Gods and Monsters'
+p1493
+aV7.5
+p1494
+aa(lp1495
+S'The Great McGinty'
+p1496
+aV7.5
+p1497
+aa(lp1498
+S'Harry and Tonto'
+p1499
+aV7.5
+p1500
+aa(lp1501
+S'Howards End'
+p1502
+aV7.5
+p1503
+aa(lp1504
+S'I Want to Live!'
+p1505
+aV7.5
+p1506
+aa(lp1507
+S'An Inconvenient Truth'
+p1508
+aV7.5
+p1509
+aa(lp1510
+S'The Jolson Story'
+p1511
+aV7.5
+p1512
+aa(lp1513
+S'The King and I'
+p1514
+aV7.5
+p1515
+aa(lp1516
+S'King of Jazz'
+p1517
+aV7.5
+p1518
+aa(lp1519
+S'Legends of the Fall'
+p1520
+aV7.5
+p1521
+aa(lp1522
+S'Lili'
+p1523
+aV7.5
+p1524
+aa(lp1525
+S'A Little Romance'
+p1526
+aV7.5
+p1527
+aa(lp1528
+S'The Magic Machines'
+p1529
+aV7.5
+p1530
+aa(lp1531
+S'The Man Who Knew Too Much'
+p1532
+aV7.5
+p1533
+aa(lp1534
+S'The Merry Widow'
+p1535
+aV7.5
+p1536
+aa(lp1537
+S'The Mission'
+p1538
+aV7.5
+p1539
+aa(lp1540
+S'My Cousin Vinny'
+p1541
+aV7.5
+p1542
+aa(lp1543
+S'Never on Sunday'
+p1544
+aV7.5
+p1545
+aa(lp1546
+S'Oliver!'
+p1547
+aV7.5
+p1548
+aa(lp1549
+S'The Panama Deception'
+p1550
+aV7.5
+p1551
+aa(lp1552
+S'Pillow Talk'
+p1553
+aV7.5
+p1554
+aa(lp1555
+S'Pinocchio'
+p1556
+aV7.5
+p1557
+aa(lp1558
+S'Porgy and Bess'
+p1559
+aV7.5
+p1560
+aa(lp1561
+S'Reds'
+p1562
+aV7.5
+p1563
+aa(lp1564
+S"Ryan's Daughter"
+p1565
+aV7.5
+p1566
+aa(lp1567
+S'Sentinels of Silence'
+p1568
+aV7.5
+p1569
+aa(lp1570
+S'Shanghai Express'
+p1571
+aV7.5
+p1572
+aa(lp1573
+S'Somebody Up There Likes Me'
+p1574
+aV7.5
+p1575
+aa(lp1576
+S'The Stone Carvers'
+p1577
+aV7.5
+p1578
+aa(lp1579
+S'Suspicion'
+p1580
+aV7.5
+p1581
+aa(lp1582
+S'Sweeney Todd: The Demon Barber of Fleet Street'
+p1583
+aV7.5
+p1584
+aa(lp1585
+S'Sweet Bird of Youth'
+p1586
+aV7.5
+p1587
+aa(lp1588
+S'Tender Mercies'
+p1589
+aV7.5
+p1590
+aa(lp1591
+S'Thirty Seconds Over Tokyo'
+p1592
+aV7.5
+p1593
+aa(lp1594
+S"Thursday's Children"
+p1595
+aV7.5
+p1596
+aa(lp1597
+S'The Titan: Story of Michelangelo'
+p1598
+aV7.5
+p1599
+aa(lp1600
+S'To Catch a Thief'
+p1601
+aV7.5
+p1602
+aa(lp1603
+S'Tora! Tora! Tora!'
+p1604
+aV7.5
+p1605
+aa(lp1606
+S'Total Recall'
+p1607
+aV7.5
+p1608
+aa(lp1609
+S'The Two Mouseketeers'
+p1610
+aV7.5
+p1611
+aa(lp1612
+S'Victor Victoria'
+p1613
+aV7.5
+p1614
+aa(lp1615
+S'Viva Zapata!'
+p1616
+aV7.5
+p1617
+aa(lp1618
+S'Wasp'
+p1619
+aV7.5
+p1620
+aa(lp1621
+S'Watch on the Rhine'
+p1622
+aV7.5
+p1623
+aa(lp1624
+S'The Westerner'
+p1625
+aV7.5
+p1626
+aa(lp1627
+S'Witness'
+p1628
+aV7.5
+p1629
+aa(lp1630
+S'Written on the Wind'
+p1631
+aV7.5
+p1632
+aa(lp1633
+S"Alice Doesn't Live Here Anymore"
+p1634
+aV7.4
+p1635
+aa(lp1636
+S'Beetlejuice'
+p1637
+aV7.4
+p1638
+aa(lp1639
+S'The Black Stallion'
+p1640
+aV7.4
+p1641
+aa(lp1642
+S'The Blood of Yingzhou District'
+p1643
+aV7.4
+p1644
+aa(lp1645
+S'Bound for Glory'
+p1646
+aV7.4
+p1647
+aa(lp1648
+S'Capote'
+p1649
+aV7.4
+p1650
+aa(lp1651
+S'Champion'
+p1652
+aV7.4
+p1653
+aa(lp1654
+S'The Cider House Rules'
+p1655
+aV7.4
+p1656
+aa(lp1657
+S'Coquette'
+p1658
+aV7.4
+p1659
+aa(lp1660
+S'The Country Girl'
+p1661
+aV7.4
+p1662
+aa(lp1663
+S'The Descendants'
+p1664
+aV7.4
+p1665
+aa(lp1666
+S'The Diary of Anne Frank'
+p1667
+aV7.4
+p1668
+aa(lp1669
+S'Driving Miss Daisy'
+p1670
+aV7.4
+p1671
+aa(lp1672
+S'The English Patient'
+p1673
+aV7.4
+p1674
+aa(lp1675
+S'Father Goose'
+p1676
+aV7.4
+p1677
+aa(lp1678
+S'Flamenco at 5:15'
+p1679
+aV7.4
+p1680
+aa(lp1681
+S'The Fortune Cookie'
+p1682
+aV7.4
+p1683
+aa(lp1684
+S'Frida'
+p1685
+aV7.4
+p1686
+aa(lp1687
+S"Gentleman's Agreement"
+p1688
+aV7.4
+p1689
+aa(lp1690
+S'The Goodbye Girl'
+p1691
+aV7.4
+p1692
+aa(lp1693
+S'Hustle & Flow'
+p1694
+aV7.4
+p1695
+aa(lp1696
+S"I'll Cry Tomorrow"
+p1697
+aV7.4
+p1698
+aa(lp1699
+S'In Which We Serve'
+p1700
+aV7.4
+p1701
+aa(lp1702
+S'Irma la Douce'
+p1703
+aV7.4
+p1704
+aa(lp1705
+S'World Without Sun'
+p1706
+aV7.4
+p1707
+aa(lp1708
+S'Julia'
+p1709
+aV7.4
+p1710
+aa(lp1711
+S'Julius Caesar'
+p1712
+aV7.4
+p1713
+aa(lp1714
+S'Kiss of the Spider Woman'
+p1715
+aV7.4
+p1716
+aa(lp1717
+S'The Life of Emile Zola'
+p1718
+aV7.4
+p1719
+aa(lp1720
+S'Lincoln'
+p1721
+aV7.4
+p1722
+aa(lp1723
+S'The Lives of a Bengal Lancer'
+p1724
+aV7.4
+p1725
+aa(lp1726
+S'The Long Way Home'
+p1727
+aV7.4
+p1728
+aa(lp1729
+S'The Lost Thing'
+p1730
+aV7.4
+p1731
+aa(lp1732
+S'Lust for Life'
+p1733
+aV7.4
+p1734
+aa(lp1735
+S'Master and Commander: The Far Side of the World'
+p1736
+aV7.4
+p1737
+aa(lp1738
+S'Mediterraneo'
+p1739
+aV7.4
+p1740
+aa(lp1741
+S'Min and Bill'
+p1742
+aV7.4
+p1743
+aa(lp1744
+S'One-Eyed Men Are Kings'
+p1745
+aV7.4
+p1746
+aa(lp1747
+S'A Passage to India'
+p1748
+aV7.4
+p1749
+aa(lp1750
+S'Places in the Heart'
+p1751
+aV7.4
+p1752
+aa(lp1753
+S'Precious'
+p1754
+aV7.4
+p1755
+aa(lp1756
+S'The Queen'
+p1757
+aV7.4
+p1758
+aa(lp1759
+S'Quest'
+p1760
+aV7.4
+p1761
+aa(lp1762
+S'Quest for Fire'
+p1763
+aV7.4
+p1764
+aa(lp1765
+S'A Room with a View'
+p1766
+aV7.4
+p1767
+aa(lp1768
+S'San Francisco'
+p1769
+aV7.4
+p1770
+aa(lp1771
+S'The Secret Land'
+p1772
+aV7.4
+p1773
+aa(lp1774
+S'Seven Brides for Seven Brothers'
+p1775
+aV7.4
+p1776
+aa(lp1777
+S'She Wore a Yellow Ribbon'
+p1778
+aV7.4
+p1779
+aa(lp1780
+S'The Silent World'
+p1781
+aV7.4
+p1782
+aa(lp1783
+S'Sleepy Hollow'
+p1784
+aV7.4
+p1785
+aa(lp1786
+S'Strangers No More'
+p1787
+aV7.4
+p1788
+aa(lp1789
+S'Tabu'
+p1790
+aV7.4
+p1791
+aa(lp1792
+S'Terms of Endearment'
+p1793
+aV7.4
+p1794
+aa(lp1795
+S'That Hamilton Woman'
+p1796
+aV7.4
+p1797
+aa(lp1798
+S'Thelma & Louise'
+p1799
+aV7.4
+p1800
+aa(lp1801
+S'Tootsie'
+p1802
+aV7.4
+p1803
+aa(lp1804
+S'Topsy-Turvy'
+p1805
+aV7.4
+p1806
+aa(lp1807
+S'Visas and Virtue'
+p1808
+aV7.4
+p1809
+aa(lp1810
+S'Wall Street'
+p1811
+aV7.4
+p1812
+aa(lp1813
+S'The Way of All Flesh'
+p1814
+aV7.4
+p1815
+aa(lp1816
+S'The Wetback Hound'
+p1817
+aV7.4
+p1818
+aa(lp1819
+S'Wonder Boys'
+p1820
+aV7.4
+p1821
+aa(lp1822
+S'The Yearling'
+p1823
+aV7.4
+p1824
+aa(lp1825
+S'Zero Dark Thirty'
+p1826
+aV7.4
+p1827
+aa(lp1828
+S'7 Faces of Dr. Lao'
+p1829
+aV7.3
+p1830
+aa(lp1831
+S'An American in Paris'
+p1832
+aV7.3
+p1833
+aa(lp1834
+S'The Bachelor and the Bobby-Soxer'
+p1835
+aV7.3
+p1836
+aa(lp1837
+S'The Bespoke Overcoat'
+p1838
+aV7.3
+p1839
+aa(lp1840
+S'Blue Jasmine'
+p1841
+aV7.3
+p1842
+aa(lp1843
+S'Bored of Education'
+p1844
+aV7.3
+p1845
+aa(lp1846
+S'Born Free'
+p1847
+aV7.3
+p1848
+aa(lp1849
+S'Boys Town'
+p1850
+aV7.3
+p1851
+aa(lp1852
+S'Calamity Jane'
+p1853
+aV7.3
+p1854
+aa(lp1855
+S'Coming Home'
+p1856
+aV7.3
+p1857
+aa(lp1858
+S'Crazy Heart'
+p1859
+aV7.3
+p1860
+aa(lp1861
+S'The Crying Game'
+p1862
+aV7.3
+p1863
+aa(lp1864
+S'Dumbo'
+p1865
+aV7.3
+p1866
+aa(lp1867
+S'Erin Brockovich'
+p1868
+aV7.3
+p1869
+aa(lp1870
+S'For Scent-imental Reasons'
+p1871
+aV7.3
+p1872
+aa(lp1873
+S'Giuseppina'
+p1874
+aV7.3
+p1875
+aa(lp1876
+S'The Glenn Miller Story'
+p1877
+aV7.3
+p1878
+aa(lp1879
+S'Going My Way'
+p1880
+aV7.3
+p1881
+aa(lp1882
+S'Goodbye'
+p1883
+aV7.3
+p1884
+aa(lp1885
+S'Gosford Park'
+p1886
+aV7.3
+p1887
+aa(lp1888
+S'The Great Gatsby'
+p1889
+aV7.3
+p1890
+aa(lp1891
+S'The Great Gatsby'
+p1892
+aV7.3
+p1893
+aa(lp1894
+S'The Great Lie'
+p1895
+aV7.3
+p1896
+aa(lp1897
+S'The Great Race'
+p1898
+aV7.3
+p1899
+aa(lp1900
+S'Helium'
+p1901
+aV7.3
+p1902
+aa(lp1903
+S'The Hellstrom Chronicle'
+p1904
+aV7.3
+p1905
+aa(lp1906
+S'If You Love This Planet'
+p1907
+aV7.3
+p1908
+aa(lp1909
+S"I'll Find a Way"
+p1910
+aV7.3
+p1911
+aa(lp1912
+S'Inocente'
+p1913
+aV7.3
+p1914
+aa(lp1915
+S'Jerry Maguire'
+p1916
+aV7.3
+p1917
+aa(lp1918
+S'King Kong'
+p1919
+aV7.3
+p1920
+aa(lp1921
+S'King Kong'
+p1922
+aV7.3
+p1923
+aa(lp1924
+S'Little Women'
+p1925
+aV7.3
+p1926
+aa(lp1927
+S'Little Women'
+p1928
+aV7.3
+p1929
+aa(lp1930
+S'Love Me or Leave Me'
+p1931
+aV7.3
+p1932
+aa(lp1933
+S'Madame Rosa'
+p1934
+aV7.3
+p1935
+aa(lp1936
+S'The Madness of King George'
+p1937
+aV7.3
+p1938
+aa(lp1939
+S'The Man Who Skied Down Everest'
+p1940
+aV7.3
+p1941
+aa(lp1942
+S'Maya Lin: A Strong Clear Vision'
+p1943
+aV7.3
+p1944
+aa(lp1945
+S'Memoirs of a Geisha'
+p1946
+aV7.3
+p1947
+aa(lp1948
+S'Michael Clayton'
+p1949
+aV7.3
+p1950
+aa(lp1951
+S'Monster'
+p1952
+aV7.3
+p1953
+aa(lp1954
+S'Murder on the Orient Express'
+p1955
+aV7.3
+p1956
+aa(lp1957
+S'Nicholas and Alexandra'
+p1958
+aV7.3
+p1959
+aa(lp1960
+S'Nine from Little Rock'
+p1961
+aV7.3
+p1962
+aa(lp1963
+S'Norma Rae'
+p1964
+aV7.3
+p1965
+aa(lp1966
+S'Panic in the Streets'
+p1967
+aV7.3
+p1968
+aa(lp1969
+S'Paul Robeson: Tribute to an Artist'
+p1970
+aV7.3
+p1971
+aa(lp1972
+S"Pirates of the Caribbean: Dead Man's Chest"
+p1973
+aV7.3
+p1974
+aa(lp1975
+S'Pollyanna'
+p1976
+aV7.3
+p1977
+aa(lp1978
+S'The Private Life of Henry VIII'
+p1979
+aV7.3
+p1980
+aa(lp1981
+S"Quicker'n a Wink"
+p1982
+aV7.3
+p1983
+aa(lp1984
+S'Rango'
+p1985
+aV7.3
+p1986
+aa(lp1987
+S'The Redwoods'
+p1988
+aV7.3
+p1989
+aa(lp1990
+S'A River Runs Through It'
+p1991
+aV7.3
+p1992
+aa(lp1993
+S'The Rose Tattoo'
+p1994
+aV7.3
+p1995
+aa(lp1996
+S'So This Is Harris!'
+p1997
+aV7.3
+p1998
+aa(lp1999
+S'Sons and Lovers'
+p2000
+aV7.3
+p2001
+aa(lp2002
+S'Special Delivery'
+p2003
+aV7.3
+p2004
+aa(lp2005
+S'Speedy Gonzales'
+p2006
+aV7.3
+p2007
+aa(lp2008
+S'Spider-Man 2'
+p2009
+aV7.3
+p2010
+aa(lp2011
+S"Summer of '42"
+p2012
+aV7.3
+p2013
+aa(lp2014
+S'Superman'
+p2015
+aV7.3
+p2016
+aa(lp2017
+S'The Three Faces of Eve'
+p2018
+aV7.3
+p2019
+aa(lp2020
+S'The True Glory'
+p2021
+aV7.3
+p2022
+aa(lp2023
+S'Tsotsi'
+p2024
+aV7.3
+p2025
+aa(lp2026
+S'Two Soldiers'
+p2027
+aV7.3
+p2028
+aa(lp2029
+S'Why Man Creates'
+p2030
+aV7.3
+p2031
+aa(lp2032
+S'Woman of the Year'
+p2033
+aV7.3
+p2034
+aa(lp2035
+S'Wonder Man'
+p2036
+aV7.3
+p2037
+aa(lp2038
+S'The Young Victoria'
+p2039
+aV7.3
+p2040
+aa(lp2041
+S'The Age of Innocence'
+p2042
+aV7.2
+p2043
+aa(lp2044
+S'Anchors Aweigh'
+p2045
+aV7.2
+p2046
+aa(lp2047
+S'Beginners'
+p2048
+aV7.2
+p2049
+aa(lp2050
+S'The Big House'
+p2051
+aV7.2
+p2052
+aa(lp2053
+S'Bird'
+p2054
+aV7.2
+p2055
+aa(lp2056
+S'Born on the Fourth of July'
+p2057
+aV7.2
+p2058
+aa(lp2059
+S'Brave'
+p2060
+aV7.2
+p2061
+aa(lp2062
+S'The Buddy Holly Story'
+p2063
+aV7.2
+p2064
+aa(lp2065
+S'Butterflies Are Free'
+p2066
+aV7.2
+p2067
+aa(lp2068
+S'Cactus Flower'
+p2069
+aV7.2
+p2070
+aa(lp2071
+S'Chariots of Fire'
+p2072
+aV7.2
+p2073
+aa(lp2074
+S'Chicago'
+p2075
+aV7.2
+p2076
+aa(lp2077
+S'Children of a Lesser God'
+p2078
+aV7.2
+p2079
+aa(lp2080
+S'Cold Mountain'
+p2081
+aV7.2
+p2082
+aa(lp2083
+S'Dangerous'
+p2084
+aV7.2
+p2085
+aa(lp2086
+S'Darling'
+p2087
+aV7.2
+p2088
+aa(lp2089
+S'Death on the Nile'
+p2090
+aV7.2
+p2091
+aa(lp2092
+S'Educating Peter'
+p2093
+aV7.2
+p2094
+aa(lp2095
+S'Ferdinand the Bull'
+p2096
+aV7.2
+p2097
+aa(lp2098
+S'The Fighting Lady'
+p2099
+aV7.2
+p2100
+aa(lp2101
+S'First Steps'
+p2102
+aV7.2
+p2103
+aa(lp2104
+S'The Full Monty'
+p2105
+aV7.2
+p2106
+aa(lp2107
+S'Gate of Hell'
+p2108
+aV7.2
+p2109
+aa(lp2110
+S'Get Out Your Handkerchiefs'
+p2111
+aV7.2
+p2112
+aa(lp2113
+S'Glass'
+p2114
+aV7.2
+p2115
+aa(lp2116
+S'Grand Prix'
+p2117
+aV7.2
+p2118
+aa(lp2119
+S'The Great American Cowboy'
+p2120
+aV7.2
+p2121
+aa(lp2122
+S'The Harvey Girls'
+p2123
+aV7.2
+p2124
+aa(lp2125
+S'The Hospital'
+p2126
+aV7.2
+p2127
+aa(lp2128
+S'The Human Comedy'
+p2129
+aV7.2
+p2130
+aa(lp2131
+S'Karl Hess: Toward Liberty'
+p2132
+aV7.2
+p2133
+aa(lp2134
+S'Klute'
+p2135
+aV7.2
+p2136
+aa(lp2137
+S'Manhattan Melodrama'
+p2138
+aV7.2
+p2139
+aa(lp2140
+S'Mask'
+p2141
+aV7.2
+p2142
+aa(lp2143
+S'Men in Black'
+p2144
+aV7.2
+p2145
+aa(lp2146
+S'Moulin Rouge'
+p2147
+aV7.2
+p2148
+aa(lp2149
+S'Mr Hublot'
+p2150
+aV7.2
+p2151
+aa(lp2152
+S'The Muppets'
+p2153
+aV7.2
+p2154
+aa(lp2155
+S'Oklahoma!'
+p2156
+aV7.2
+p2157
+aa(lp2158
+S'Omnibus'
+p2159
+aV7.2
+p2160
+aa(lp2161
+S'Out of Africa'
+p2162
+aV7.2
+p2163
+aa(lp2164
+S'The Paper Chase'
+p2165
+aV7.2
+p2166
+aa(lp2167
+S'The Personals'
+p2168
+aV7.2
+p2169
+aa(lp2170
+S'Picnic'
+p2171
+aV7.2
+p2172
+aa(lp2173
+S'Prelude To War'
+p2174
+aV7.2
+p2175
+aa(lp2176
+S'Reversal of Fortune'
+p2177
+aV7.2
+p2178
+aa(lp2179
+S'Robert Kennedy Remembered'
+p2180
+aV7.2
+p2181
+aa(lp2182
+S'Sayonara'
+p2183
+aV7.2
+p2184
+aa(lp2185
+S'Shakespeare in Love'
+p2186
+aV7.2
+p2187
+aa(lp2188
+S'Ship of Fools'
+p2189
+aV7.2
+p2190
+aa(lp2191
+S'A Shocking Accident'
+p2192
+aV7.2
+p2193
+aa(lp2194
+S'Speed'
+p2195
+aV7.2
+p2196
+aa(lp2197
+S'State Fair'
+p2198
+aV7.2
+p2199
+aa(lp2200
+S'The Sunshine Boys'
+p2201
+aV7.2
+p2202
+aa(lp2203
+S'Tarzan'
+p2204
+aV7.2
+p2205
+aa(lp2206
+S'Twin Towers'
+p2207
+aV7.2
+p2208
+aa(lp2209
+S'Vacation from Marriage'
+p2210
+aV7.2
+p2211
+aa(lp2212
+S'Vicky Cristina Barcelona'
+p2213
+aV7.2
+p2214
+aa(lp2215
+S'White Shadows in the South Seas'
+p2216
+aV7.2
+p2217
+aa(lp2218
+S'The Accused'
+p2219
+aV7.1
+p2220
+aa(lp2221
+S'Air Force'
+p2222
+aV7.1
+p2223
+aa(lp2224
+S"Alexander's Ragtime Band"
+p2225
+aV7.1
+p2226
+aa(lp2227
+S'Anastasia'
+p2228
+aV7.1
+p2229
+aa(lp2230
+S'The Anderson Platoon'
+p2231
+aV7.1
+p2232
+aa(lp2233
+S'Anna and the King of Siam'
+p2234
+aV7.1
+p2235
+aa(lp2236
+S'Annie Get Your Gun'
+p2237
+aV7.1
+p2238
+aa(lp2239
+S'The Appointments of Dennis Jennings'
+p2240
+aV7.1
+p2241
+aa(lp2242
+S'The Barefoot Contessa'
+p2243
+aV7.1
+p2244
+aa(lp2245
+S'Blithe Spirit'
+p2246
+aV7.1
+p2247
+aa(lp2248
+S"Bob's Birthday"
+p2249
+aV7.1
+p2250
+aa(lp2251
+S'The Candidate'
+p2252
+aV7.1
+p2253
+aa(lp2254
+S'The Charge of the Light Brigade'
+p2255
+aV7.1
+p2256
+aa(lp2257
+S'Charly'
+p2258
+aV7.1
+p2259
+aa(lp2260
+S'Come and Get It'
+p2261
+aV7.1
+p2262
+aa(lp2263
+S'The Country Cousin'
+p2264
+aV7.1
+p2265
+aa(lp2266
+S'A Double Life'
+p2267
+aV7.1
+p2268
+aa(lp2269
+S"Fellini's Casanova"
+p2270
+aV7.1
+p2271
+aa(lp2272
+S'Gerald McBoing-Boing'
+p2273
+aV7.1
+p2274
+aa(lp2275
+S'Gravity Is My Enemy'
+p2276
+aV7.1
+p2277
+aa(lp2278
+S'I Am a Promise: The Children of Stanton Elementary School'
+p2279
+aV7.1
+p2280
+aa(lp2281
+S'In the Region of Ice'
+p2282
+aV7.1
+p2283
+aa(lp2284
+S'Indochine'
+p2285
+aV7.1
+p2286
+aa(lp2287
+S'Iris'
+p2288
+aV7.1
+p2289
+aa(lp2290
+S"It's Tough to Be a Bird"
+p2291
+aV7.1
+p2292
+aa(lp2293
+S'The Joker Is Wild'
+p2294
+aV7.1
+p2295
+aa(lp2296
+S'Kitty Foyle'
+p2297
+aV7.1
+p2298
+aa(lp2299
+S'Mighty Aphrodite'
+p2300
+aV7.1
+p2301
+aa(lp2302
+S'Mona Lisa Descending a Staircase'
+p2303
+aV7.1
+p2304
+aa(lp2305
+S"Monster's Ball"
+p2306
+aV7.1
+p2307
+aa(lp2308
+S'Moonstruck'
+p2309
+aV7.1
+p2310
+aa(lp2311
+S'The Patriot'
+p2312
+aV7.1
+p2313
+aa(lp2314
+S'The Poseidon Adventure'
+p2315
+aV7.1
+p2316
+aa(lp2317
+S'Seawards the Great Ships'
+p2318
+aV7.1
+p2319
+aa(lp2320
+S'A Story of Healing'
+p2321
+aV7.1
+p2322
+aa(lp2323
+S'The Stratton Story'
+p2324
+aV7.1
+p2325
+aa(lp2326
+S'The Subject Was Roses'
+p2327
+aV7.1
+p2328
+aa(lp2329
+S'Tango'
+p2330
+aV7.1
+p2331
+aa(lp2332
+S'Three Orphan Kittens'
+p2333
+aV7.1
+p2334
+aa(lp2335
+S'Topkapi'
+p2336
+aV7.1
+p2337
+aa(lp2338
+S'Tweetie Pie'
+p2339
+aV7.1
+p2340
+aa(lp2341
+S'The Way We Were'
+p2342
+aV7.1
+p2343
+aa(lp2344
+S'With Byrd at the South Pole'
+p2345
+aV7.1
+p2346
+aa(lp2347
+S'With the Marines at Tarawa'
+p2348
+aV7.1
+p2349
+aa(lp2350
+S'Adventures of Don Juan'
+p2351
+aV7.0
+p2352
+aa(lp2353
+S'Affliction'
+p2354
+aV7.0
+p2355
+aa(lp2356
+S'Bedknobs and Broomsticks'
+p2357
+aV7.0
+p2358
+aa(lp2359
+S'Black and White in Color'
+p2360
+aV7.0
+p2361
+aa(lp2362
+S'The Black Swan'
+p2363
+aV7.0
+p2364
+aa(lp2365
+S'Blood and Sand'
+p2366
+aV7.0
+p2367
+aa(lp2368
+S'Blossoms in the Dust'
+p2369
+aV7.0
+p2370
+aa(lp2371
+S'Breaking the Sound Barrier'
+p2372
+aV7.0
+p2373
+aa(lp2374
+S'Broken Lance'
+p2375
+aV7.0
+p2376
+aa(lp2377
+S'Call Me Madam'
+p2378
+aV7.0
+p2379
+aa(lp2380
+S'Cleopatra'
+p2381
+aV7.0
+p2382
+aa(lp2383
+S'Cleopatra'
+p2384
+aV7.0
+p2385
+aa(lp2386
+S'The Color of Money'
+p2387
+aV7.0
+p2388
+aa(lp2389
+S'Cover Girl'
+p2390
+aV7.0
+p2391
+aa(lp2392
+S'A Damsel in Distress'
+p2393
+aV7.0
+p2394
+aa(lp2395
+S'For Whom the Bell Tolls'
+p2396
+aV7.0
+p2397
+aa(lp2398
+S'A Funny Thing Happened on the Way to the Forum'
+p2399
+aV7.0
+p2400
+aa(lp2401
+S'Ghost'
+p2402
+aV7.0
+p2403
+aa(lp2404
+S'The High and the Mighty'
+p2405
+aV7.0
+p2406
+aa(lp2407
+S"I Won't Play"
+p2408
+aV7.0
+p2409
+aa(lp2410
+S'Le Mozart des Pickpockets'
+p2411
+aV7.0
+p2412
+aa(lp2413
+S'Lend a Paw'
+p2414
+aV7.0
+p2415
+aa(lp2416
+S'Manipulation'
+p2417
+aV7.0
+p2418
+aa(lp2419
+S'Moscow Strikes Back'
+p2420
+aV7.0
+p2421
+aa(lp2422
+S'Naughty Marietta'
+p2423
+aV7.0
+p2424
+aa(lp2425
+S'The New Tenants'
+p2426
+aV7.0
+p2427
+aa(lp2428
+S'An Officer and a Gentleman'
+p2429
+aV7.0
+p2430
+aa(lp2431
+S'The Old Man and the Sea'
+p2432
+aV7.0
+p2433
+aa(lp2434
+S'The Old Man and the Sea'
+p2435
+aV7.0
+p2436
+aa(lp2437
+S'The Paleface'
+p2438
+aV7.0
+p2439
+aa(lp2440
+S'Pollock'
+p2441
+aV7.0
+p2442
+aa(lp2443
+S'The Prince of Egypt'
+p2444
+aV7.0
+p2445
+aa(lp2446
+S'The Rains Came'
+p2447
+aV7.0
+p2448
+aa(lp2449
+S"Robert Frost: A Lover's Quarrel with the World"
+p2450
+aV7.0
+p2451
+aa(lp2452
+S'Save the Tiger'
+p2453
+aV7.0
+p2454
+aa(lp2455
+S'South Pacific'
+p2456
+aV7.0
+p2457
+aa(lp2458
+S'Strike Up the Band'
+p2459
+aV7.0
+p2460
+aa(lp2461
+S'Syriana'
+p2462
+aV7.0
+p2463
+aa(lp2464
+S'Thoroughly Modern Millie'
+p2465
+aV7.0
+p2466
+aa(lp2467
+S'Thunderball'
+p2468
+aV7.0
+p2469
+aa(lp2470
+S'A Time Out of War'
+p2471
+aV7.0
+p2472
+aa(lp2473
+S'Two Arabian Knights'
+p2474
+aV7.0
+p2475
+aa(lp2476
+S'Underworld'
+p2477
+aV7.0
+p2478
+aa(lp2479
+S'What Dreams May Come'
+p2480
+aV7.0
+p2481
+aa(lp2482
+S'Wilson'
+p2483
+aV7.0
+p2484
+aa(lp2485
+S'With a Song in My Heart'
+p2486
+aV7.0
+p2487
+aa(lp2488
+S"You Don't Have to Die"
+p2489
+aV7.0
+p2490
+aa(lp2491
+S'8 Mile'
+p2492
+aV6.9
+p2493
+aa(lp2494
+S'The Alaskan Eskimo'
+p2495
+aV6.9
+p2496
+aa(lp2497
+S'Angel and Big Joe'
+p2498
+aV6.9
+p2499
+aa(lp2500
+S'Babe'
+p2501
+aV6.9
+p2502
+aa(lp2503
+S'Broadway Melody of 1936'
+p2504
+aV6.9
+p2505
+aa(lp2506
+S'Bunny'
+p2507
+aV6.9
+p2508
+aa(lp2509
+S'Cat Ballou'
+p2510
+aV6.9
+p2511
+aa(lp2512
+S'The Chronicles of Narnia: The Lion'
+p2513
+aV6.9
+p2514
+aa(lp2515
+S'Close Harmony'
+p2516
+aV6.9
+p2517
+aa(lp2518
+S'Cromwell'
+p2519
+aV6.9
+p2520
+aa(lp2521
+S'The Dark Angel'
+p2522
+aV6.9
+p2523
+aa(lp2524
+S'Desert Victory'
+p2525
+aV6.9
+p2526
+aa(lp2527
+S'Designing Woman'
+p2528
+aV6.9
+p2529
+aa(lp2530
+S'The Divorcee'
+p2531
+aV6.9
+p2532
+aa(lp2533
+S'Down and Out in America'
+p2534
+aV6.9
+p2535
+aa(lp2536
+S'The Duchess'
+p2537
+aV6.9
+p2538
+aa(lp2539
+S'Elizabeth: The Golden Age'
+p2540
+aV6.9
+p2541
+aa(lp2542
+S'Fantastic Voyage'
+p2543
+aV6.9
+p2544
+aa(lp2545
+S'Gigi'
+p2546
+aV6.9
+p2547
+aa(lp2548
+S'Grand Canyon'
+p2549
+aV6.9
+p2550
+aa(lp2551
+S'The Great Ziegfeld'
+p2552
+aV6.9
+p2553
+aa(lp2554
+S'Green Dolphin Street'
+p2555
+aV6.9
+p2556
+aa(lp2557
+S'Heaven Can Wait'
+p2558
+aV6.9
+p2559
+aa(lp2560
+S'In Old Chicago'
+p2561
+aV6.9
+p2562
+aa(lp2563
+S'Independence Day'
+p2564
+aV6.9
+p2565
+aa(lp2566
+S'Interrupted Melody'
+p2567
+aV6.9
+p2568
+aa(lp2569
+S'The Jazz Singer'
+p2570
+aV6.9
+p2571
+aa(lp2572
+S'Love Story'
+p2573
+aV6.9
+p2574
+aa(lp2575
+S'Main Street on the March!'
+p2576
+aV6.9
+p2577
+aa(lp2578
+S'Melvin and Howard'
+p2579
+aV6.9
+p2580
+aa(lp2581
+S'The Milagro Beanfield War'
+p2582
+aV6.9
+p2583
+aa(lp2584
+S'The Moon and the Son: An Imagined Conversation'
+p2585
+aV6.9
+p2586
+aa(lp2587
+S'Mrs. Doubtfire'
+p2588
+aV6.9
+p2589
+aa(lp2590
+S'One Hundred Men and a Girl'
+p2591
+aV6.9
+p2592
+aa(lp2593
+S"Princess O'Rourke"
+p2594
+aV6.9
+p2595
+aa(lp2596
+S'The Shore'
+p2597
+aV6.9
+p2598
+aa(lp2599
+S'This Above All'
+p2600
+aV6.9
+p2601
+aa(lp2602
+S'A Time for Justice'
+p2603
+aV6.9
+p2604
+aa(lp2605
+S'The Towering Inferno'
+p2606
+aV6.9
+p2607
+aa(lp2608
+S'Water Birds'
+p2609
+aV6.9
+p2610
+aa(lp2611
+S'When Tomorrow Comes'
+p2612
+aV6.9
+p2613
+aa(lp2614
+S"Who's Who in Animal Land"
+p2615
+aV6.9
+p2616
+aa(lp2617
+S'Young at Heart'
+p2618
+aV6.9
+p2619
+aa(lp2620
+S'The Accidental Tourist'
+p2621
+aV6.8
+p2622
+aa(lp2623
+S'Bad Girl'
+p2624
+aV6.8
+p2625
+aa(lp2626
+S'Benjy'
+p2627
+aV6.8
+p2628
+aa(lp2629
+S'The Brave One'
+p2630
+aV6.8
+p2631
+aa(lp2632
+S'Broken Rainbow'
+p2633
+aV6.8
+p2634
+aa(lp2635
+S'Bugsy'
+p2636
+aV6.8
+p2637
+aa(lp2638
+S'Busy Little Bears'
+p2639
+aV6.8
+p2640
+aa(lp2641
+S"Churchill's Island"
+p2642
+aV6.8
+p2643
+aa(lp2644
+S'Closed Mondays'
+p2645
+aV6.8
+p2646
+aa(lp2647
+S'Dirty Dancing'
+p2648
+aV6.8
+p2649
+aa(lp2650
+S'Emma'
+p2651
+aV6.8
+p2652
+aa(lp2653
+S'Exodus'
+p2654
+aV6.8
+p2655
+aa(lp2656
+S'The Ghost and the Darkness'
+p2657
+aV6.8
+p2658
+aa(lp2659
+S'The House on 92nd Street'
+p2660
+aV6.8
+p2661
+aa(lp2662
+S"Lemony Snicket's A Series of Unfortunate Events"
+p2663
+aV6.8
+p2664
+aa(lp2665
+S'Lieberman in Love'
+p2666
+aV6.8
+p2667
+aa(lp2668
+S"Logan's Run"
+p2669
+aV6.8
+p2670
+aa(lp2671
+S'Lovers and Other Strangers'
+p2672
+aV6.8
+p2673
+aa(lp2674
+S'Mother Wore Tights'
+p2675
+aV6.8
+p2676
+aa(lp2677
+S'Of Pups and Puzzles'
+p2678
+aV6.8
+p2679
+aa(lp2680
+S"Prizzi's Honor"
+p2681
+aV6.8
+p2682
+aa(lp2683
+S'Reap the Wild Wind'
+p2684
+aV6.8
+p2685
+aa(lp2686
+S'The River'
+p2687
+aV6.8
+p2688
+aa(lp2689
+S'The Robe'
+p2690
+aV6.8
+p2691
+aa(lp2692
+S'The Sin of Madelon Claudet'
+p2693
+aV6.8
+p2694
+aa(lp2695
+S'Spawn of the North'
+p2696
+aV6.8
+p2697
+aa(lp2698
+S'Speaking of Animals and Their Families'
+p2699
+aV6.8
+p2700
+aa(lp2701
+S'Target For Tonight'
+p2702
+aV6.8
+p2703
+aa(lp2704
+S'This Mechanical Age'
+p2705
+aV6.8
+p2706
+aa(lp2707
+S'The Thomas Crown Affair'
+p2708
+aV6.8
+p2709
+aa(lp2710
+S'Tom Jones'
+p2711
+aV6.8
+p2712
+aa(lp2713
+S'Top Gun'
+p2714
+aV6.8
+p2715
+aa(lp2716
+S'War and Peace'
+p2717
+aV6.8
+p2718
+aa(lp2719
+S'When Worlds Collide'
+p2720
+aV6.8
+p2721
+aa(lp2722
+S'The Champ'
+p2723
+aV6.7
+p2724
+aa(lp2725
+S'City Slickers'
+p2726
+aV6.7
+p2727
+aa(lp2728
+S'The Cowboy and the Lady'
+p2729
+aV6.7
+p2730
+aa(lp2731
+S'Dangerous Moves'
+p2732
+aV6.7
+p2733
+aa(lp2734
+S'The Facts of Life'
+p2735
+aV6.7
+p2736
+aa(lp2737
+S'A Free Soul'
+p2738
+aV6.7
+p2739
+aa(lp2740
+S'The Great Caruso'
+p2741
+aV6.7
+p2742
+aa(lp2743
+S'The Great Waltz'
+p2744
+aV6.7
+p2745
+aa(lp2746
+S'The Greatest Show on Earth'
+p2747
+aV6.7
+p2748
+aa(lp2749
+S'Innerspace'
+p2750
+aV6.7
+p2751
+aa(lp2752
+S'Is It Always Right to Be Right?'
+p2753
+aV6.7
+p2754
+aa(lp2755
+S'Joan of Arc'
+p2756
+aV6.7
+p2757
+aa(lp2758
+S'Kentucky'
+p2759
+aV6.7
+p2760
+aa(lp2761
+S'Les Girls'
+p2762
+aV6.7
+p2763
+aa(lp2764
+S'North West Mounted Police'
+p2765
+aV6.7
+p2766
+aa(lp2767
+S'Now'
+p2768
+aV6.7
+p2769
+aa(lp2770
+S'Restoration'
+p2771
+aV6.7
+p2772
+aa(lp2773
+S'Tin Toy'
+p2774
+aV6.7
+p2775
+aa(lp2776
+S'Transatlantic'
+p2777
+aV6.7
+p2778
+aa(lp2779
+S'Working Girl'
+p2780
+aV6.7
+p2781
+aa(lp2782
+S'Airport'
+p2783
+aV6.6
+p2784
+aa(lp2785
+S'Amphibious Fighters'
+p2786
+aV6.6
+p2787
+aa(lp2788
+S'Anna Karenina'
+p2789
+aV6.6
+p2790
+aa(lp2791
+S'Anthony Adverse'
+p2792
+aV6.6
+p2793
+aa(lp2794
+S'The Battle of Midway'
+p2795
+aV6.6
+p2796
+aa(lp2797
+S'A Boy and His Dog'
+p2798
+aV6.6
+p2799
+aa(lp2800
+S'Camelot'
+p2801
+aV6.6
+p2802
+aa(lp2803
+S'Cocoon'
+p2804
+aV6.6
+p2805
+aa(lp2806
+S'Declaration of Independence'
+p2807
+aV6.6
+p2808
+aa(lp2809
+S'Dreamgirls'
+p2810
+aV6.6
+p2811
+aa(lp2812
+S'Every Child'
+p2813
+aV6.6
+p2814
+aa(lp2815
+S'A Farewell to Arms'
+p2816
+aV6.6
+p2817
+aa(lp2818
+S'Frank Film'
+p2819
+aV6.6
+p2820
+aa(lp2821
+S'Give Me Liberty'
+p2822
+aV6.6
+p2823
+aa(lp2824
+S'How to Sleep'
+p2825
+aV6.6
+p2826
+aa(lp2827
+S'Love Is a Many-Splendored Thing'
+p2828
+aV6.6
+p2829
+aa(lp2830
+S'None But the Lonely Heart'
+p2831
+aV6.6
+p2832
+aa(lp2833
+S"Papa's Delicate Condition"
+p2834
+aV6.6
+p2835
+aa(lp2836
+S'Pocahontas'
+p2837
+aV6.6
+p2838
+aa(lp2839
+S'Quiero ser'
+p2840
+aV6.6
+p2841
+aa(lp2842
+S"Ray's Male Heterosexual Dance Hall"
+p2843
+aV6.6
+p2844
+aa(lp2845
+S"The Razor's Edge"
+p2846
+aV6.6
+p2847
+aa(lp2848
+S'The Resurrection of Broncho Billy'
+p2849
+aV6.6
+p2850
+aa(lp2851
+S'The Scoundrel'
+p2852
+aV6.6
+p2853
+aa(lp2854
+S'Seeds of Destiny'
+p2855
+aV6.6
+p2856
+aa(lp2857
+S'Sweethearts'
+p2858
+aV6.6
+p2859
+aa(lp2860
+S'Tin Pan Alley'
+p2861
+aV6.6
+p2862
+aa(lp2863
+S'A Touch of Class'
+p2864
+aV6.6
+p2865
+aa(lp2866
+S'U-571'
+p2867
+aV6.6
+p2868
+aa(lp2869
+S'Viva Villa!'
+p2870
+aV6.6
+p2871
+aa(lp2872
+S'When Magoo Flew'
+p2873
+aV6.6
+p2874
+aa(lp2875
+S'Yentl'
+p2876
+aV6.6
+p2877
+aa(lp2878
+S'Alice in Wonderland'
+p2879
+aV6.5
+p2880
+aa(lp2881
+S'Ama Girls'
+p2882
+aV6.5
+p2883
+aa(lp2884
+S'The Big Broadcast of 1938'
+p2885
+aV6.5
+p2886
+aa(lp2887
+S'The Broadway Melody'
+p2888
+aV6.5
+p2889
+aa(lp2890
+S'Crash Dive'
+p2891
+aV6.5
+p2892
+aa(lp2893
+S'Dear Diary'
+p2894
+aV6.5
+p2895
+aa(lp2896
+S'Disraeli'
+p2897
+aV6.5
+p2898
+aa(lp2899
+S'Fame'
+p2900
+aV6.5
+p2901
+aa(lp2902
+S'Happy Feet'
+p2903
+aV6.5
+p2904
+aa(lp2905
+S'In the Shadow of the Stars'
+p2906
+aV6.5
+p2907
+aa(lp2908
+S'Lady Be Good'
+p2909
+aV6.5
+p2910
+aa(lp2911
+S"A Midsummer Night's Dream"
+p2912
+aV6.5
+p2913
+aa(lp2914
+S'Morning Glory'
+p2915
+aV6.5
+p2916
+aa(lp2917
+S'Phantom of the Opera'
+p2918
+aV6.5
+p2919
+aa(lp2920
+S'Session Man'
+p2921
+aV6.5
+p2922
+aa(lp2923
+S'That Mothers Might Live'
+p2924
+aV6.5
+p2925
+aa(lp2926
+S'tom thumb'
+p2927
+aV6.5
+p2928
+aa(lp2929
+S'White Nights'
+p2930
+aV6.5
+p2931
+aa(lp2932
+S'The Wonderful World of the Brothers Grimm'
+p2933
+aV6.5
+p2934
+aa(lp2935
+S'Big Mama'
+p2936
+aV6.4
+p2937
+aa(lp2938
+S'Blue Sky'
+p2939
+aV6.4
+p2940
+aa(lp2941
+S"Bram Stoker's Dracula"
+p2942
+aV6.4
+p2943
+aa(lp2944
+S'BUtterfield 8'
+p2945
+aV6.4
+p2946
+aa(lp2947
+S'Death Becomes Her'
+p2948
+aV6.4
+p2949
+aa(lp2950
+S'Destination Moon'
+p2951
+aV6.4
+p2952
+aa(lp2953
+S'The Divine Lady'
+p2954
+aV6.4
+p2955
+aa(lp2956
+S'The Eleanor Roosevelt Story'
+p2957
+aV6.4
+p2958
+aa(lp2959
+S'Facing Your Danger'
+p2960
+aV6.4
+p2961
+aa(lp2962
+S"He Makes Me Feel Like Dancin'"
+p2963
+aV6.4
+p2964
+aa(lp2965
+S'Here Comes the Groom'
+p2966
+aV6.4
+p2967
+aa(lp2968
+S'A Hole in the Head'
+p2969
+aV6.4
+p2970
+aa(lp2971
+S'The Iron Lady'
+p2972
+aV6.4
+p2973
+aa(lp2974
+S'La Cucaracha'
+p2975
+aV6.4
+p2976
+aa(lp2977
+S'Marie Antoinette'
+p2978
+aV6.4
+p2979
+aa(lp2980
+S'Monsters'
+p2981
+aV6.4
+p2982
+aa(lp2983
+S'My Gal Sal'
+p2984
+aV6.4
+p2985
+aa(lp2986
+S"Neptune's Daughter"
+p2987
+aV6.4
+p2988
+aa(lp2989
+S'Plymouth Adventure'
+p2990
+aV6.4
+p2991
+aa(lp2992
+S'Stairway to Light'
+p2993
+aV6.4
+p2994
+aa(lp2995
+S'Travels with My Aunt'
+p2996
+aV6.4
+p2997
+aa(lp2998
+S'Blood on the Sun'
+p2999
+aV6.3
+p3000
+aa(lp3001
+S'Captain Carey'
+p3002
+aV6.3
+p3003
+aa(lp3004
+S'December 7th'
+p3005
+aV6.3
+p3006
+aa(lp3007
+S'The Dove'
+p3008
+aV6.3
+p3009
+aa(lp3010
+S'Evita'
+p3011
+aV6.3
+p3012
+aa(lp3013
+S'Heavenly Music'
+p3014
+aV6.3
+p3015
+aa(lp3016
+S'Purple Rain'
+p3017
+aV6.3
+p3018
+aa(lp3019
+S'RoboCop'
+p3020
+aV6.3
+p3021
+aa(lp3022
+S'Shampoo'
+p3023
+aV6.3
+p3024
+aa(lp3025
+S'Skippy'
+p3026
+aV6.3
+p3027
+aa(lp3028
+S'Three Coins in the Fountain'
+p3029
+aV6.3
+p3030
+aa(lp3031
+S'Torture Money'
+p3032
+aV6.3
+p3033
+aa(lp3034
+S'The V.I.P.s'
+p3035
+aV6.3
+p3036
+aa(lp3037
+S"All the King's Men"
+p3038
+aV6.2
+p3039
+aa(lp3040
+S'Belle \xc3\x89poque'
+p3041
+aV6.2
+p3042
+aa(lp3043
+S'Black Fox'
+p3044
+aV6.2
+p3045
+aa(lp3046
+S'California Suite'
+p3047
+aV6.2
+p3048
+aa(lp3049
+S'The Hindenburg'
+p3050
+aV6.2
+p3051
+aa(lp3052
+S'The Hole'
+p3053
+aV6.2
+p3054
+aa(lp3055
+S'I Wanted Wings'
+p3056
+aV6.2
+p3057
+aa(lp3058
+S'Kokoda Front Line'
+p3059
+aV6.2
+p3060
+aa(lp3061
+S'Leisure'
+p3062
+aV6.2
+p3063
+aa(lp3064
+S'Overture to The Merry Wives of Windsor'
+p3065
+aV6.2
+p3066
+aa(lp3067
+S'Penny Wisdom'
+p3068
+aV6.2
+p3069
+aa(lp3070
+S'The Public Pays'
+p3071
+aV6.2
+p3072
+aa(lp3073
+S'The Sandpiper'
+p3074
+aV6.2
+p3075
+aa(lp3076
+S'Schwarzfahrer'
+p3077
+aV6.2
+p3078
+aa(lp3079
+S'The Assault'
+p3080
+aV6.1
+p3081
+aa(lp3082
+S'Cavalcade'
+p3083
+aV6.1
+p3084
+aa(lp3085
+S'City of Wax'
+p3086
+aV6.1
+p3087
+aa(lp3088
+S'Climbing the Matterhorn'
+p3089
+aV6.1
+p3090
+aa(lp3091
+S'Dick Tracy'
+p3092
+aV6.1
+p3093
+aa(lp3094
+S'Flashdance'
+p3095
+aV6.1
+p3096
+aa(lp3097
+S'The Golden Compass'
+p3098
+aV6.1
+p3099
+aa(lp3100
+S'The Last Days'
+p3101
+aV6.1
+p3102
+aa(lp3103
+S'This Is the Army'
+p3104
+aV6.1
+p3105
+aa(lp3106
+S'Toward Independence'
+p3107
+aV6.1
+p3108
+aa(lp3109
+S'Waikiki Wedding'
+p3110
+aV6.1
+p3111
+aa(lp3112
+S'The Alamo'
+p3113
+aV6.0
+p3114
+aa(lp3115
+S'Albert Schweitzer'
+p3116
+aV6.0
+p3117
+aa(lp3118
+S'Bill and Coo'
+p3119
+aV6.0
+p3120
+aa(lp3121
+S'Chagall'
+p3122
+aV6.0
+p3123
+aa(lp3124
+S'Cimarron'
+p3125
+aV6.0
+p3126
+aa(lp3127
+S'A Force in Readiness'
+p3128
+aV6.0
+p3129
+aa(lp3130
+S'The Garden of Allah'
+p3131
+aV6.0
+p3132
+aa(lp3133
+S'Grandad of Races'
+p3134
+aV6.0
+p3135
+aa(lp3136
+S'One Night of Love'
+p3137
+aV6.0
+p3138
+aa(lp3139
+S'Pearl Harbor'
+p3140
+aV6.0
+p3141
+aa(lp3142
+S'So Much for So Little'
+p3143
+aV6.0
+p3144
+aa(lp3145
+S'Song Without End'
+p3146
+aV6.0
+p3147
+aa(lp3148
+S'Witness to War: Dr. Charlie Clements'
+p3149
+aV6.0
+p3150
+aa(lp3151
+S'Casals Conducts: 1964'
+p3152
+aV5.9
+p3153
+aa(lp3154
+S'Crashing the Water Barrier'
+p3155
+aV5.9
+p3156
+aa(lp3157
+S'Design for Death'
+p3158
+aV5.9
+p3159
+aa(lp3160
+S'Project Hope'
+p3161
+aV5.9
+p3162
+aa(lp3163
+S'Shaft'
+p3164
+aV5.9
+p3165
+aa(lp3166
+S'The Time Machine'
+p3167
+aV5.9
+p3168
+aa(lp3169
+S'Violet'
+p3170
+aV5.9
+p3171
+aa(lp3172
+S'A Year Toward Tomorrow'
+p3173
+aV5.9
+p3174
+aa(lp3175
+S'Arthur'
+p3176
+aV5.8
+p3177
+aa(lp3178
+S'Earthquake'
+p3179
+aV5.8
+p3180
+aa(lp3181
+S'Harry and the Hendersons'
+p3182
+aV5.8
+p3183
+aa(lp3184
+S'In Old Arizona'
+p3185
+aV5.8
+p3186
+aa(lp3187
+S'Light in the Window'
+p3188
+aV5.8
+p3189
+aa(lp3190
+S'Marooned'
+p3191
+aV5.8
+p3192
+aa(lp3193
+S'Men Against the Arctic'
+p3194
+aV5.8
+p3195
+aa(lp3196
+S'Moonbird'
+p3197
+aV5.8
+p3198
+aa(lp3199
+S'The Wolfman'
+p3200
+aV5.8
+p3201
+aa(lp3202
+S'The Woman in Red'
+p3203
+aV5.8
+p3204
+aa(lp3205
+S'Beyond the Line of Duty'
+p3206
+aV5.7
+p3207
+aa(lp3208
+S'Come Back'
+p3209
+aV5.7
+p3210
+aa(lp3211
+S'Ersatz'
+p3212
+aV5.7
+p3213
+aa(lp3214
+S'A Little Night Music'
+p3215
+aV5.7
+p3216
+aa(lp3217
+S'Planet of the Apes'
+p3218
+aV5.7
+p3219
+aa(lp3220
+S'World of Kids'
+p3221
+aV5.7
+p3222
+aa(lp3223
+S'The Box'
+p3224
+aV5.6
+p3225
+aa(lp3226
+S'Neighbours'
+p3227
+aV5.6
+p3228
+aa(lp3229
+S'The Crunch Bird'
+p3230
+aV5.5
+p3231
+aa(lp3232
+S"Don't"
+p3233
+aV5.5
+p3234
+aa(lp3235
+S'Mighty Joe Young'
+p3236
+aV5.5
+p3237
+aa(lp3238
+S'The Nutty Professor'
+p3239
+aV5.5
+p3240
+aa(lp3241
+S'The Sand Castle'
+p3242
+aV5.5
+p3243
+aa(lp3244
+S'White Wilderness'
+p3245
+aV5.5
+p3246
+aa(lp3247
+S'Hitler Lives'
+p3248
+aV5.4
+p3249
+aa(lp3250
+S"Magoo's Puddle Jumper"
+p3251
+aV5.4
+p3252
+aa(lp3253
+S'Boys and Girls'
+p3254
+aV5.3
+p3255
+aa(lp3256
+S'A Chance to Live'
+p3257
+aV5.3
+p3258
+aa(lp3259
+S'Doctor Dolittle'
+p3260
+aV5.3
+p3261
+aa(lp3262
+S'Sundae in New York'
+p3263
+aV5.3
+p3264
+aa(lp3265
+S'Wrestling Swordfish'
+p3266
+aV5.2
+p3267
+aa(lp3268
+S'The Bridge of San Luis Rey'
+p3269
+aV5.1
+p3270
+aa(lp3271
+S"King Solomon's Mines"
+p3272
+aV5.1
+p3273
+aa(lp3274
+S'7th Heaven'
+p3275
+aV5.0
+p3276
+aa(lp3277
+S"Thank God It's Friday"
+p3278
+aV5.0
+p3279
+aa(lp3280
+S'The Fog of War'
+p3281
+aV4.8
+p3282
+aa(lp3283
+S'You Light Up My Life'
+p3284
+aV4.5
+p3285
+aa(lp3286
+S'Hello'
+p3287
+aV3.5
+p3288
+aa(lp3289
+S'E.T.: The Extra-Terrestrial'
+p3290
+aV2.1
+p3291
+aa.

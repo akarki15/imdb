@@ -1,25 +1,22 @@
+"""  Handles routing for rating_list path """
 from flask import Blueprint, render_template
-import  os
-from config import STATIC
+from config import OUTPUT_FILE
+from scripts.prepare import read_dump, print_ratings
 
-rating_list = Blueprint('rating_list', __name__, url_prefix = '/rating_list') 
+rating_list = Blueprint('rating_list', __name__, url_prefix='/rating_list')
 
-@rating_list.route('/',methods=['GET'])
+@rating_list.route('/', methods=['GET'])
 def home():
-        list  = []
-        with open(os.path.join(STATIC, 'movies.csv')) as file:
-                for line in file:
-                        name = line.split(',')[0].decode('utf-8')
-                        rating = '10'
-                        list.append([name, rating]) 
-        s = ''
-        for item in list:
-                print '\n'
-                print item[0]
-                print '____'
-                print item [1]
-                s+='\n'
-                s+=item[0]
-                s+=str(item[1])
-        
-        return render_template('rating.html',list=list)
+    """ Render the list of movies and imdb scores """
+    lst = read_dump(OUTPUT_FILE)
+    lst = decode_list(lst)
+    print_ratings(OUTPUT_FILE)
+    return render_template('rating.html', lst=lst)
+
+def decode_list(lst):
+	for i in range (1, len(lst)):
+		lst[i][0] = lst[i][0].decode('utf_8')
+		lst[i][1] = lst[i][1].decode('utf_8')
+	return lst
+
+

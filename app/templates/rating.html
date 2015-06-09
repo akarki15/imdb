@@ -1,7 +1,16 @@
-<ul>
-{% for movie in list %}	
-	<li>
-		<div> {{ movie[0] }}  {{ movie[1] }} 
-	</li>			
-{% endfor %}
-</ul>
+<!DOCTYPE html>
+
+<html lang="en">
+  	<head>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<script src="{{ url_for('static', filename='js/request.js') }}"></script>
+	</head>
+	<body>
+	<ul>
+	 {% for entry in lst%}
+    <li>{{ entry[0]}}, {{entry[1]}}
+    </li>
+    {% endfor %}		
+	</body>
+</html>

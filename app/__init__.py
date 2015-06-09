@@ -1,3 +1,4 @@
+""" Create app object. Do high level stuff """
 from flask import Flask, render_template, url_for
 
 app = Flask(__name__)
@@ -10,8 +11,9 @@ app.register_blueprint(rating_list)
 
 @app.errorhandler(404)
 def not_found(error):
-       print url_for('rating_list.home')
-       return render_template('404.html'), 404
+    """ Set up 404 page """
+    print url_for('rating_list.home')
+    return render_template('404.html'), 404
 
 
 
