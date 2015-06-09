@@ -28,10 +28,16 @@ _Get the imdb ratings and serve it through a webserver_
   - ```run.py``` creates a little flask app and serves the results at the localserver. 
 
 
-### Edge Cases encountered and dealt with
+### Edge cases encountered and dealt with
   - Random spaces and double quotes while reading the movies.csv file
   - The API did not have records for some movies. In such cases I did not add those records to the file where I was storing the imdb ratings (```app/static/dump```)
   - Some JSON reponses for movies had ```'N/A'``` for  ```imdbRating``` field. In those cases, I did not store those records to the dump. 
+  
+### Approximate time spent
+  - Around 2 hrs writing setup.py
+  - Around 2 days setting up the webapp 
+  
+  
   
   
 
