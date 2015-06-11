@@ -14,9 +14,10 @@ def home():
     return render_template('rating.html', lst=lst)
 
 def decode_list(lst):
-	for i in range (1, len(lst)):
-		lst[i][0] = lst[i][0].decode('utf_8')
-		lst[i][1] = lst[i][1].decode('utf_8')
-	return lst
+    """ Decodes the string based on utf_8 format """
+    for i in range(1, len(lst)):
+        lst[i][0] = lst[i][0].decode('utf_8')
+        lst[i][1] = lst[i][1].decode('utf_8')
+    return lst
 
 

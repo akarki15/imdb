@@ -17,24 +17,19 @@ def write_dump(input_file, output_file):
                     temp_list.append([name, json_obj['imdbRating']])
                     print temp_list[-1]
             else:
-                print 'ERROR:', json_obj['Error']
-            # if counter == 7:
-            #    break
+                print 'ERROR:', json_obj['Error']            
             counter+=1
     # Sort the list
     if len(temp_list) > 0:
         sorted_list = sorted(temp_list, key=lambda x: x[1], reverse=True)
         with open(output_file, 'w+') as json_dump:
-            pickle.dump(sorted_list, json_dump)
-            #for s in sorted_list:
-            #    json_dump.write(s)
+            pickle.dump(sorted_list, json_dump)            
 
 def read_dump(path_dump):
     """ Reads the json_dump into a list and returns it """
     temp_list = []    
     with open(path_dump, 'rb') as dump_file:
-        temp_list = pickle.load(dump_file)
-        # temp_list = [line.rstrip(u'\n') for line in dump_file]
+        temp_list = pickle.load(dump_file)        
     return temp_list
 
 def parse_input(name):
