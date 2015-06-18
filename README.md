@@ -1,5 +1,8 @@
 # imdb
 
+### Check out the web-app running at heroku
+  - https://imdb-rank.herokuapp.com/rating_list/
+  
 ### Setup Instructions 
   _Install Dependencies_ 
   - Clone the repo and cd into it
@@ -36,7 +39,7 @@ _Get the imdb ratings and serve it through a webserver_
 ### Approximate time spent
   - Around 2 hrs writing setup.py
   - Around 2 days setting up the webapp 
-  
+ 
   
   
   
